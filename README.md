@@ -53,19 +53,27 @@ New to MoAI security? Start here:
 
 A minimal first-week reading path:
 
-A minimal first-week reading path:
+<img src="https://img.shields.io/badge/Ecosystem-4C78A8?style=flat" height="20" align="absmiddle" />
 
-<img src="https://img.shields.io/badge/Ecosystem-4C78A8?style=flat" height="18" align="absmiddle" />
-- [A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448)<img src="https://img.shields.io/badge/Android-6B7280?style=flat" height="18" align="absmiddle" />
-- [A First Look at On-device Models in iOS Apps](https://arxiv.org/pdf/2307.12328)<img src="https://img.shields.io/badge/iOS-6B7280?style=flat" height="18" align="absmiddle" />  
-• <img src="https://img.shields.io/badge/Core%20Risk-D97706?style=flat" height="18" align="absmiddle" /> <img src="https://img.shields.io/badge/Model%20Stealing%20Attack-C2410C?style=flat" height="18" align="absmiddle" />&nbsp;[Mind Your Weight(s): A Large-scale Study on Insufficient ML Model Protection in Mobile Apps](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang)  
-• <img src="https://img.shields.io/badge/Attack%20Surface-7F1D1D?style=flat" height="18" align="absmiddle" /> <img src="https://img.shields.io/badge/Adversarial%20Attack-DC2626?style=flat" height="18" align="absmiddle" />&nbsp;[Robustness of On-device Models: Adversarial Attack to Deep Learning Models on Android Apps](https://arxiv.org/pdf/2101.04401)  
-• <img src="https://img.shields.io/badge/Attack%20Surface-7F1D1D?style=flat" height="18" align="absmiddle" /> <img src="https://img.shields.io/badge/Backdoor%20Attack-E11D48?style=flat" height="18" align="absmiddle" />&nbsp;[DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00035)  
-• <img src="https://img.shields.io/badge/Attack%20Surface-7F1D1D?style=flat" height="18" align="absmiddle" /> <img src="https://img.shields.io/badge/Adversarial%20Weight%20Attack-BE185D?style=flat" height="18" align="absmiddle" />&nbsp;[Typhon Unleashed: Practical Adversarial Weight Attacks Against On-Device Deep Learning Models](https://ieeexplore.ieee.org/document/11407485)  
-• <img src="https://img.shields.io/badge/Attack%20Surface-7F1D1D?style=flat" height="18" align="absmiddle" /> <img src="https://img.shields.io/badge/Energy--Latency%20Attack-B45309?style=flat" height="18" align="absmiddle" />&nbsp;[Energy-Latency Attacks to On-Device Neural Networks via Sponge Poisoning](https://arxiv.org/pdf/2305.03888)  
-• <img src="https://img.shields.io/badge/Defense-166534?style=flat" height="18" align="absmiddle" /> <img src="https://img.shields.io/badge/Model%20Obfuscation-0F766E?style=flat" height="18" align="absmiddle" />&nbsp;[ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-based Systems](https://arxiv.org/pdf/2306.06112)  
-• <img src="https://img.shields.io/badge/Defense-166534?style=flat" height="18" align="absmiddle" /> <img src="https://img.shields.io/badge/TEE%20Protection-047857?style=flat" height="18" align="absmiddle" />&nbsp;[ShadowNet: A Secure and Efficient On-device Model Inference System](https://arxiv.org/abs/2011.05905)  
-• <img src="https://img.shields.io/badge/Defense-166534?style=flat" height="18" align="absmiddle" /> <img src="https://img.shields.io/badge/Watermarking-0E7490?style=flat" height="18" align="absmiddle" />&nbsp;[THEMIS: Towards Practical IP Protection for Post-Deployment On-Device DL Models](https://www.usenix.org/conference/usenixsecurity25/presentation/huang-yujin)
+• [A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448)&nbsp;<img src="https://img.shields.io/badge/Android-6B7280?style=flat" height="18" align="absmiddle" />  
+• [A First Look at On-device Models in iOS Apps](https://arxiv.org/pdf/2307.12328)&nbsp;<img src="https://img.shields.io/badge/iOS-6B7280?style=flat" height="18" align="absmiddle" />
+
+<img src="https://img.shields.io/badge/Core%20Risk-D97706?style=flat" height="20" align="absmiddle" />
+
+• [Mind Your Weight(s): A Large-scale Study on Insufficient ML Model Protection in Mobile Apps](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang)&nbsp;<img src="https://img.shields.io/badge/Model%20Stealing%20Attack-C2410C?style=flat" height="18" align="absmiddle" />
+
+<img src="https://img.shields.io/badge/Attack%20Surface-7F1D1D?style=flat" height="20" align="absmiddle" />
+
+• [Robustness of On-device Models: Adversarial Attack to Deep Learning Models on Android Apps](https://arxiv.org/pdf/2101.04401)&nbsp;<img src="https://img.shields.io/badge/Adversarial%20Attack-DC2626?style=flat" height="18" align="absmiddle" />  
+• [DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00035)&nbsp;<img src="https://img.shields.io/badge/Backdoor%20Attack-E11D48?style=flat" height="18" align="absmiddle" />  
+• [Typhon Unleashed: Practical Adversarial Weight Attacks Against On-Device Deep Learning Models](https://ieeexplore.ieee.org/document/11407485)&nbsp;<img src="https://img.shields.io/badge/Adversarial%20Weight%20Attack-BE185D?style=flat" height="18" align="absmiddle" />  
+• [Energy-Latency Attacks to On-Device Neural Networks via Sponge Poisoning](https://arxiv.org/pdf/2305.03888)&nbsp;<img src="https://img.shields.io/badge/Energy--Latency%20Attack-B45309?style=flat" height="18" align="absmiddle" />
+
+<img src="https://img.shields.io/badge/Defense-166534?style=flat" height="20" align="absmiddle" />
+
+• [ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-based Systems](https://arxiv.org/pdf/2306.06112)&nbsp;<img src="https://img.shields.io/badge/Model%20Obfuscation-0F766E?style=flat" height="18" align="absmiddle" />  
+• [ShadowNet: A Secure and Efficient On-device Model Inference System](https://arxiv.org/abs/2011.05905)&nbsp;<img src="https://img.shields.io/badge/TEE%20Protection-047857?style=flat" height="18" align="absmiddle" />  
+• [THEMIS: Towards Practical IP Protection for Post-Deployment On-Device DL Models](https://www.usenix.org/conference/usenixsecurity25/presentation/huang-yujin)&nbsp;<img src="https://img.shields.io/badge/Watermarking-0E7490?style=flat" height="18" align="absmiddle" />
 
 ## Taxonomy at a glance
 
