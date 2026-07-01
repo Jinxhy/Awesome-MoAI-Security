@@ -53,8 +53,7 @@ New to MoAI security? Start here:
 
 A minimal first-week reading path:
 
-- [A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448)  
-  ![Ecosystem](https://img.shields.io/badge/Ecosystem-4C78A8?style=flat-square) ![Android Apps](https://img.shields.io/badge/Android%20Apps-6B7280?style=flat-square)
+- [A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448)![Ecosystem](https://img.shields.io/badge/Ecosystem-4C78A8?style=flat-square) ![Android Apps](https://img.shields.io/badge/Android%20Apps-6B7280?style=flat-square)
 
 - [A First Look at On-device Models in iOS Apps](https://arxiv.org/pdf/2307.12328)  
   ![Ecosystem](https://img.shields.io/badge/Ecosystem-4C78A8?style=flat-square) ![iOS Apps](https://img.shields.io/badge/iOS%20Apps-6B7280?style=flat-square)
