@@ -53,7 +53,7 @@ New to MoAI security? Start here:
 
 A minimal first-week reading path:
 
-<img src="https://img.shields.io/badge/Ecosystem-4C78A8?style=flat" height="22" align="absmiddle" /><br>
+<img src="https://img.shields.io/badge/Ecosystem-4C78A8?style=flat" height="24" align="absmiddle" /><br>
 • <img src="https://img.shields.io/badge/Android-6B7280?style=flat" height="20" align="absmiddle" />&nbsp;[A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448)  
 • <img src="https://img.shields.io/badge/iOS-6B7280?style=flat" height="20" align="absmiddle" />&nbsp;[A First Look at On-device Models in iOS Apps](https://arxiv.org/pdf/2307.12328)
 
