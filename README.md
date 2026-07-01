@@ -14,6 +14,8 @@ This repository is maintained as the companion resource for:
 
 Mobile on-device AI systems execute AI models locally through ML frameworks such as **LiteRT/TFLite**, **Core ML**, **ExecuTorch**, **ONNX**, and hardware-backed accelerators. This repo tracks the security research needed to understand and protect such systems, as the local storage of on-device models introduces new security risks.
 
+[Figure 2: MOAI system overview](figures/System.pdf)
+
 ## Contents
 
 - [Reading roadmap](#reading-roadmap)
