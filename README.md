@@ -70,6 +70,27 @@ New to MoAI security? Start here:
 • <img src="https://img.shields.io/badge/TEE-0F766E?style=flat" height="18" align="absmiddle" />&nbsp;[ShadowNet: A Secure and Efficient On-device Model Inference System](https://arxiv.org/abs/2011.05905)  
 • <img src="https://img.shields.io/badge/Watermarking-0E7490?style=flat" height="18" align="absmiddle" />&nbsp;[THEMIS: Towards Practical IP Protection for Post-Deployment On-Device DL Models](https://www.usenix.org/conference/usenixsecurity25/presentation/huang-yujin)
 
+
+> <img src="https://img.shields.io/badge/New%20to%20MOAI%20Security%3F-First--Week%20Reading%20Path-2563EB?style=for-the-badge" height="26" align="absmiddle" />
+>
+> <img src="https://img.shields.io/badge/Ecosystem-4C78A8?style=flat" height="20" align="absmiddle" /><br>
+> • <img src="https://img.shields.io/badge/Android-6B7280?style=flat" height="16" align="absmiddle" />&nbsp;[A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448)  
+> • <img src="https://img.shields.io/badge/iOS-6B7280?style=flat" height="16" align="absmiddle" />&nbsp;[A First Look at On-device Models in iOS Apps](https://arxiv.org/pdf/2307.12328)  
+>
+> <img src="https://img.shields.io/badge/Core%20Risk-D97706?style=flat" height="20" align="absmiddle" /><br>
+> • <img src="https://img.shields.io/badge/Stealing-9A3412?style=flat" height="16" align="absmiddle" />&nbsp;[Mind Your Weight(s): A Large-scale Study on Insufficient ML Model Protection in Mobile Apps](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang)  
+>
+> <img src="https://img.shields.io/badge/Attack%20Surface-7F1D1D?style=flat" height="20" align="absmiddle" /><br>
+> • <img src="https://img.shields.io/badge/Adversarial-B91C1C?style=flat" height="16" align="absmiddle" />&nbsp;[Robustness of On-device Models: Adversarial Attack to Deep Learning Models on Android Apps](https://arxiv.org/pdf/2101.04401)  
+> • <img src="https://img.shields.io/badge/Backdoor-BE123C?style=flat" height="16" align="absmiddle" />&nbsp;[DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00035)  
+> • <img src="https://img.shields.io/badge/Weight-9F1239?style=flat" height="16" align="absmiddle" />&nbsp;[Typhon Unleashed: Practical Adversarial Weight Attacks Against On-Device Deep Learning Models](https://ieeexplore.ieee.org/document/11407485)  
+> • <img src="https://img.shields.io/badge/Latency-92400E?style=flat" height="16" align="absmiddle" />&nbsp;[Energy-Latency Attacks to On-Device Neural Networks via Sponge Poisoning](https://arxiv.org/pdf/2305.03888)  
+>
+> <img src="https://img.shields.io/badge/Defenses-166534?style=flat" height="20" align="absmiddle" /><br>
+> • <img src="https://img.shields.io/badge/Obfuscation-0F766E?style=flat" height="16" align="absmiddle" />&nbsp;[ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-based Systems](https://arxiv.org/pdf/2306.06112)  
+> • <img src="https://img.shields.io/badge/TEE-047857?style=flat" height="16" align="absmiddle" />&nbsp;[ShadowNet: A Secure and Efficient On-device Model Inference System](https://arxiv.org/abs/2011.05905)  
+> • <img src="https://img.shields.io/badge/Watermarking-0E7490?style=flat" height="16" align="absmiddle" />&nbsp;[THEMIS: Towards Practical IP Protection for Post-Deployment On-Device DL Models](https://www.usenix.org/conference/usenixsecurity25/presentation/huang-yujin)
+
 ## Taxonomy at a glance
 
 | MOAI security pillar | What it protects | Representative attacks | Representative defenses |
