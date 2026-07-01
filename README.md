@@ -55,8 +55,9 @@ A minimal first-week reading path:
 
 A minimal first-week reading path:
 
-• <img src="https://img.shields.io/badge/Ecosystem-4C78A8?style=flat" height="18" align="absmiddle" /> <img src="https://img.shields.io/badge/Android-6B7280?style=flat" height="18" align="absmiddle" />&nbsp;[A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448)  
-• <img src="https://img.shields.io/badge/Ecosystem-4C78A8?style=flat" height="18" align="absmiddle" /> <img src="https://img.shields.io/badge/iOS-6B7280?style=flat" height="18" align="absmiddle" />&nbsp;[A First Look at On-device Models in iOS Apps](https://arxiv.org/pdf/2307.12328)  
+<img src="https://img.shields.io/badge/Ecosystem-4C78A8?style=flat" height="18" align="absmiddle" />
+- [A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448)<img src="https://img.shields.io/badge/Android-6B7280?style=flat" height="18" align="absmiddle" />
+- [A First Look at On-device Models in iOS Apps](https://arxiv.org/pdf/2307.12328)<img src="https://img.shields.io/badge/iOS-6B7280?style=flat" height="18" align="absmiddle" />  
 • <img src="https://img.shields.io/badge/Core%20Risk-D97706?style=flat" height="18" align="absmiddle" /> <img src="https://img.shields.io/badge/Model%20Stealing%20Attack-C2410C?style=flat" height="18" align="absmiddle" />&nbsp;[Mind Your Weight(s): A Large-scale Study on Insufficient ML Model Protection in Mobile Apps](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang)  
 • <img src="https://img.shields.io/badge/Attack%20Surface-7F1D1D?style=flat" height="18" align="absmiddle" /> <img src="https://img.shields.io/badge/Adversarial%20Attack-DC2626?style=flat" height="18" align="absmiddle" />&nbsp;[Robustness of On-device Models: Adversarial Attack to Deep Learning Models on Android Apps](https://arxiv.org/pdf/2101.04401)  
 • <img src="https://img.shields.io/badge/Attack%20Surface-7F1D1D?style=flat" height="18" align="absmiddle" /> <img src="https://img.shields.io/badge/Backdoor%20Attack-E11D48?style=flat" height="18" align="absmiddle" />&nbsp;[DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00035)  
