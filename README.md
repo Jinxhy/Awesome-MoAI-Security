@@ -52,6 +52,19 @@ New to MoAI security? Start here:
 
 A minimal first-week reading path:
 
+| Paper | Roadmap | Topic |
+|---|---|---|
+| [A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448) | ![Ecosystem](https://img.shields.io/badge/Ecosystem-4C78A8?style=flat-square) | ![Android Apps](https://img.shields.io/badge/Android%20Apps-6B7280?style=flat-square) |
+| [A First Look at On-device Models in iOS Apps](https://arxiv.org/pdf/2307.12328) | ![Ecosystem](https://img.shields.io/badge/Ecosystem-4C78A8?style=flat-square) | ![iOS Apps](https://img.shields.io/badge/iOS%20Apps-6B7280?style=flat-square) |
+| [Mind Your Weight(s): A Large-scale Study on Insufficient ML Model Protection in Mobile Apps](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang) | ![Core Risk](https://img.shields.io/badge/Core%20Risk-D97706?style=flat-square) | ![Model Extraction](https://img.shields.io/badge/Model%20Extraction-7C3AED?style=flat-square) |
+| [Robustness of On-device Models: Adversarial Attack to Deep Learning Models on Android Apps](https://arxiv.org/pdf/2101.04401) | ![Attack Surface](https://img.shields.io/badge/Attack%20Surface-B91C1C?style=flat-square) | ![Adversarial Attack](https://img.shields.io/badge/Adversarial%20Attack-DC2626?style=flat-square) |
+| [DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00035) | ![Attack Surface](https://img.shields.io/badge/Attack%20Surface-B91C1C?style=flat-square) | ![Backdoor Attack](https://img.shields.io/badge/Backdoor%20Attack-9F1239?style=flat-square) |
+| [Typhon Unleashed: Practical Adversarial Weight Attacks Against On-Device Deep Learning Models](https://ieeexplore.ieee.org/document/11407485) | ![Attack Surface](https://img.shields.io/badge/Attack%20Surface-B91C1C?style=flat-square) | ![Adversarial Weight Attack](https://img.shields.io/badge/Adversarial%20Weight%20Attack-9333EA?style=flat-square) |
+| [Energy-Latency Attacks to On-Device Neural Networks via Sponge Poisoning](https://arxiv.org/pdf/2305.03888) | ![Attack Surface](https://img.shields.io/badge/Attack%20Surface-B91C1C?style=flat-square) | ![Energy-Latency Attack](https://img.shields.io/badge/Energy--Latency%20Attack-EA580C?style=flat-square) |
+| [ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-based Systems](https://arxiv.org/pdf/2306.06112) | ![Defense](https://img.shields.io/badge/Defense-15803D?style=flat-square) | ![Pre-deployment](https://img.shields.io/badge/Pre--deployment-16A34A?style=flat-square) |
+| [ShadowNet: A Secure and Efficient On-device Model Inference System](https://arxiv.org/abs/2011.05905) | ![Defense](https://img.shields.io/badge/Defense-15803D?style=flat-square) | ![Runtime Execution](https://img.shields.io/badge/Runtime%20Execution-0F766E?style=flat-square) |
+| [THEMIS: Towards Practical IP Protection for Post-Deployment On-Device DL Models](https://www.usenix.org/conference/usenixsecurity25/presentation/huang-yujin) | ![Defense](https://img.shields.io/badge/Defense-15803D?style=flat-square) | ![Post-deployment](https://img.shields.io/badge/Post--deployment-2563EB?style=flat-square) |
+
 A minimal first-week reading path:
 
 - [A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448) ![Ecosystem](https://img.shields.io/badge/-Ecosystem-4C78A8?style=flat-square)
