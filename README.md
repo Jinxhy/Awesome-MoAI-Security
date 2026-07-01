@@ -55,8 +55,8 @@ A minimal first-week reading path:
 
 <img src="https://img.shields.io/badge/Ecosystem-4C78A8?style=flat" height="20" align="absmiddle" />
 
-• [A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448)&nbsp;<img src="https://img.shields.io/badge/Android-6B7280?style=flat" height="18" align="absmiddle" />  
-• [A First Look at On-device Models in iOS Apps](https://arxiv.org/pdf/2307.12328)&nbsp;<img src="https://img.shields.io/badge/iOS-6B7280?style=flat" height="18" align="absmiddle" />
+- [A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448)&nbsp;<img src="https://img.shields.io/badge/Android-6B7280?style=flat" height="18" align="absmiddle" />
+- [A First Look at On-device Models in iOS Apps](https://arxiv.org/pdf/2307.12328)&nbsp;<img src="https://img.shields.io/badge/iOS-6B7280?style=flat" height="18" align="absmiddle" />
 
 <img src="https://img.shields.io/badge/Core%20Risk-D97706?style=flat" height="20" align="absmiddle" />
 
