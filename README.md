@@ -67,8 +67,8 @@ A minimal first-week reading path:
 • <img src="https://img.shields.io/badge/Latency-92400E?style=flat" height="18" align="absmiddle" />&nbsp;[Energy-Latency Attacks to On-Device Neural Networks via Sponge Poisoning](https://arxiv.org/pdf/2305.03888)
 
 <img src="https://img.shields.io/badge/Defenses-166534?style=flat" height="22" align="absmiddle" /><br>
-• <img src="https://img.shields.io/badge/Obfuscation-0F766E?style=flat" height="18" align="absmiddle" />&nbsp;[ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-based Systems](https://arxiv.org/pdf/2306.06112)  
-• <img src="https://img.shields.io/badge/TEE-047857?style=flat" height="18" align="absmiddle" />&nbsp;[ShadowNet: A Secure and Efficient On-device Model Inference System](https://arxiv.org/abs/2011.05905)  
+• <img src="https://img.shields.io/badge/Obfuscation-047857?style=flat" height="18" align="absmiddle" />&nbsp;[ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-based Systems](https://arxiv.org/pdf/2306.06112)  
+• <img src="https://img.shields.io/badge/TEE-0F766E?style=flat" height="18" align="absmiddle" />&nbsp;[ShadowNet: A Secure and Efficient On-device Model Inference System](https://arxiv.org/abs/2011.05905)  
 • <img src="https://img.shields.io/badge/Watermarking-0E7490?style=flat" height="18" align="absmiddle" />&nbsp;[THEMIS: Towards Practical IP Protection for Post-Deployment On-Device DL Models](https://www.usenix.org/conference/usenixsecurity25/presentation/huang-yujin)
 
 ## Taxonomy at a glance
