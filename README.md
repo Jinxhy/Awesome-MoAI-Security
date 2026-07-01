@@ -23,7 +23,6 @@ Mobile on-device AI systems execute AI models locally through ML frameworks such
 
 - [Reading roadmap](#reading-roadmap)
 - [Taxonomy at a glance](#taxonomy-at-a-glance)
-- [Mobile on-device AI systems and frameworks](#mobile-on-device-ai-systems-and-frameworks)
 - [Attacks on MOAI systems](#attacks-on-moai-systems)
   - [Adversarial attacks](#adversarial-attacks)
   - [Backdoor attacks](#backdoor-attacks)
@@ -36,7 +35,6 @@ Mobile on-device AI systems execute AI models locally through ML frameworks such
   - [Model authorization and app-model binding](#model-authorization-and-app-model-binding)
   - [Trusted execution environments and secure inference](#trusted-execution-environments-and-secure-inference)
   - [Model watermarking and post-deployment accountability](#model-watermarking-and-post-deployment-accountability)
-- [Tools, artifacts, and datasets](#tools-artifacts-and-datasets)
 - [Open problems](#open-problems)
 - [Citation](#citation)
 
@@ -202,39 +200,6 @@ A minimal first-week reading path:
 - [**THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models**](https://www.usenix.org/conference/usenixsecurity25/presentation/huang-yujin) — Huang et al., USENIX Security 2025. `[watermarking]` `[IP protection]` `[post-deployment]`  
   Code: [THEMIS](https://github.com/Jinxhy/THEMIS)
 
-## Tools, artifacts, and datasets
-
-### MOAI security artifacts
-
-- [ModelXRay](https://github.com/RiS3-Lab/ModelXRay) — analyzer/extractor for on-device ML models in Android apps.
-- [ML_Extraction_Sok](https://github.com/sys-ris3/ML_Extraction_Sok) — companion repo for the USENIX Security 2024 SoK on on-device ML model extraction.
-- [AppAIsecurity](https://github.com/Jinxhy/AppAIsecurity) — artifact for adversarial attacks against on-device Android models.
-- [SmartAppAttack](https://github.com/Jinxhy/SmartAppAttack) — artifact for transfer-based attacks against Android DL apps.
-- [ModelObfuscator](https://github.com/zhoumingyi/ModelObfuscator) — model obfuscation for deployed TFLite models.
-- [DynaMO](https://github.com/zhoumingyi/DynaMO) — dynamic model obfuscation for mobile DL models.
-- [CustomDLCoder](https://github.com/zhoumingyi/CustomDLCoder) — generates code implementations to replace explicit model files.
-- [MMGuard](https://github.com/MMGuard123/MMGuard) — app-model mutual authentication for Android AI apps.
-- [THEMIS](https://github.com/Jinxhy/THEMIS) — watermarking for post-deployment on-device DL models.
-- [iOS-App-database](https://github.com/huhanGitHub/iOS-App-database) — dataset related to on-device models in iOS apps.
-
-### Mobile app and binary analysis tools
-
-Use these tools only on apps, devices, and models that you own or have permission to analyze.
-
-- [apktool](https://github.com/iBotPeaches/Apktool) — reverse engineering Android APK resources.
-- [JADX](https://github.com/skylot/jadx) — decompiler for Android APK/DEX files.
-- [Frida](https://frida.re/) — dynamic instrumentation toolkit.
-- [Ghidra](https://github.com/NationalSecurityAgency/ghidra) — software reverse engineering framework.
-- [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) — mobile security testing framework.
-- [radare2](https://github.com/radareorg/radare2) — reverse engineering framework.
-
-### Model formats and model inspection
-
-- [Netron](https://github.com/lutzroeder/netron) — viewer for neural-network model formats.
-- [ONNX](https://github.com/onnx/onnx) — open model format for ML interoperability.
-- [ONNX Runtime](https://github.com/microsoft/onnxruntime) — accelerated inference engine.
-- [Core ML Tools](https://github.com/apple/coremltools) — convert and inspect Core ML models.
-- [TensorFlow Lite Support](https://github.com/tensorflow/tflite-support) — utilities for TFLite model metadata and deployment.
 
 ## Open problems
 
