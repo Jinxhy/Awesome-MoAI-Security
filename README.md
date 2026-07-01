@@ -53,9 +53,9 @@ New to MoAI security? Start here:
 
 A minimal first-week reading path:
 
-<img src="https://img.shields.io/badge/Ecosystem-4C78A8?style=flat" height="20" align="absmiddle" /><br>
-• <img src="https://img.shields.io/badge/Android-6B7280?style=flat" height="18" align="absmiddle" />&nbsp;[A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448)  
-• <img src="https://img.shields.io/badge/iOS-6B7280?style=flat" height="18" align="absmiddle" />&nbsp;[A First Look at On-device Models in iOS Apps](https://arxiv.org/pdf/2307.12328)
+<img src="https://img.shields.io/badge/Ecosystem-4C78A8?style=flat" height="22" align="absmiddle" /><br>
+• <img src="https://img.shields.io/badge/Android-6B7280?style=flat" height="20" align="absmiddle" />&nbsp;[A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448)  
+• <img src="https://img.shields.io/badge/iOS-6B7280?style=flat" height="20" align="absmiddle" />&nbsp;[A First Look at On-device Models in iOS Apps](https://arxiv.org/pdf/2307.12328)
 
 <img src="https://img.shields.io/badge/Core%20Risk-D97706?style=flat" height="18" align="absmiddle" /><br>
 • <img src="https://img.shields.io/badge/Model%20Stealing-9A3412?style=flat" height="16" align="absmiddle" />&nbsp;[Mind Your Weight(s): A Large-scale Study on Insufficient ML Model Protection in Mobile Apps](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang)
