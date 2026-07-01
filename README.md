@@ -50,7 +50,7 @@ New to MoAI security? Start here:
 
 
 
-A minimal first-week reading path for newcomers to MOAI security.
+<img src="https://img.shields.io/badge/-A%20minimal%20first--week%20reading%20path%20for%20newcomers%20to%20MOAI%20security.-2563EB?style=for-the-badge" height="28" align="absmiddle" alt="A minimal first-week reading path for newcomers to MOAI security." />
 
 <img src="https://img.shields.io/badge/Ecosystem-4C78A8?style=flat" height="22" align="absmiddle" /><br>
 • <img src="https://img.shields.io/badge/Android-6B7280?style=flat" height="18" align="absmiddle" />&nbsp;[A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448)  
@@ -71,42 +71,6 @@ A minimal first-week reading path for newcomers to MOAI security.
 • <img src="https://img.shields.io/badge/Watermarking-0E7490?style=flat" height="18" align="absmiddle" />&nbsp;[THEMIS: Towards Practical IP Protection for Post-Deployment On-Device DL Models](https://www.usenix.org/conference/usenixsecurity25/presentation/huang-yujin)
 
 
-<table width="100%" cellpadding="14" cellspacing="0" bgcolor="#F6F8FA">
-<tr>
-<td>
-
-<img src="https://img.shields.io/badge/New%20to%20MOAI%20Security%3F-First--Week%20Reading%20Path-2563EB?style=for-the-badge" height="28" align="absmiddle" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Ecosystem-4C78A8?style=flat" height="22" align="absmiddle" /><br>
-&bull; <img src="https://img.shields.io/badge/Android-6B7280?style=flat" height="18" align="absmiddle" />&nbsp;<a href="https://arxiv.org/pdf/1812.05448">A First Look at Deep Learning Apps on Smartphones</a><br>
-&bull; <img src="https://img.shields.io/badge/iOS-6B7280?style=flat" height="18" align="absmiddle" />&nbsp;<a href="https://arxiv.org/pdf/2307.12328">A First Look at On-device Models in iOS Apps</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Core%20Risk-D97706?style=flat" height="22" align="absmiddle" /><br>
-&bull; <img src="https://img.shields.io/badge/Stealing-9A3412?style=flat" height="18" align="absmiddle" />&nbsp;<a href="https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang">Mind Your Weight(s): A Large-scale Study on Insufficient ML Model Protection in Mobile Apps</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Attack%20Surface-7F1D1D?style=flat" height="22" align="absmiddle" /><br>
-&bull; <img src="https://img.shields.io/badge/Adversarial-B91C1C?style=flat" height="18" align="absmiddle" />&nbsp;<a href="https://arxiv.org/pdf/2101.04401">Robustness of On-device Models: Adversarial Attack to Deep Learning Models on Android Apps</a><br>
-&bull; <img src="https://img.shields.io/badge/Backdoor-BE123C?style=flat" height="18" align="absmiddle" />&nbsp;<a href="https://dl.acm.org/doi/10.1109/ICSE43902.2021.00035">DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection</a><br>
-&bull; <img src="https://img.shields.io/badge/Weight-9F1239?style=flat" height="18" align="absmiddle" />&nbsp;<a href="https://ieeexplore.ieee.org/document/11407485">Typhon Unleashed: Practical Adversarial Weight Attacks Against On-Device Deep Learning Models</a><br>
-&bull; <img src="https://img.shields.io/badge/Latency-92400E?style=flat" height="18" align="absmiddle" />&nbsp;<a href="https://arxiv.org/pdf/2305.03888">Energy-Latency Attacks to On-Device Neural Networks via Sponge Poisoning</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Defenses-166534?style=flat" height="22" align="absmiddle" /><br>
-&bull; <img src="https://img.shields.io/badge/Obfuscation-047857?style=flat" height="18" align="absmiddle" />&nbsp;<a href="https://arxiv.org/pdf/2306.06112">ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-based Systems</a><br>
-&bull; <img src="https://img.shields.io/badge/TEE-0F766E?style=flat" height="18" align="absmiddle" />&nbsp;<a href="https://arxiv.org/abs/2011.05905">ShadowNet: A Secure and Efficient On-device Model Inference System</a><br>
-&bull; <img src="https://img.shields.io/badge/Watermarking-0E7490?style=flat" height="18" align="absmiddle" />&nbsp;<a href="https://www.usenix.org/conference/usenixsecurity25/presentation/huang-yujin">THEMIS: Towards Practical IP Protection for Post-Deployment On-Device DL Models</a>
-
-</td>
-</tr>
-</table>
-
 
 ## Taxonomy at a glance
 
@@ -116,7 +80,7 @@ A minimal first-week reading path for newcomers to MOAI security.
 | **Device-resident model security** | Local model artifacts, weights, graphs, operators, I/O specs, and ownership | Model stealing, model tampering, backdoors, adversarial weight attacks | Obfuscation, authorization, watermarking, encrypted packaging |
 | **Device-native environment confinement** | Runtime states, memory, accelerators, TEEs, OS/runtime isolation | Dynamic extraction, side channels, TEE partition leakage, accelerator leakage | TEE-backed inference, model partitioning, obfuscated offloading, hardware-backed isolation |
 
-## Attacks on MOAI systems
+## Attacks on MoAI systems
 
 ### Adversarial attacks
 
@@ -182,7 +146,7 @@ A minimal first-week reading path for newcomers to MOAI security.
 
 - [**Energy-Latency Attacks: A New Adversarial Threat to Deep Learning**](https://dl.acm.org/doi/10.1145/3716425) — Brachemi et al., ACM Computing Surveys 2025. `[survey]` `[availability]` `[energy-latency]`
 
-## Defenses for MOAI systems
+## Defenses for MoAI systems
 
 ### Model obfuscation and concealment
 
