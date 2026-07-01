@@ -49,7 +49,8 @@ New to MoAI security? Start here:
 5. **Look forward.** Explore new security challenges in on-device training, on-device GenAI, and agentic MoAI systems.
 
 
-> [!TIP] **A minimal first-week reading path for newcomers to MOAI security.**
+> [!TIP]
+> **A minimal first-week reading path for newcomers to MOAI security.**
 
 <img src="https://img.shields.io/badge/Ecosystem-4C78A8?style=flat" height="22" align="absmiddle" /><br>
 • <img src="https://img.shields.io/badge/Android-6B7280?style=flat" height="18" align="absmiddle" />&nbsp;[A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448)  
