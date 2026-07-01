@@ -52,16 +52,16 @@ New to MoAI security? Start here:
 
 A minimal first-week reading path:
 
-- [A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448)
-- [A First Look at On-device Models in iOS Apps](https://arxiv.org/pdf/2307.12328)
-- [Mind Your Weight(s): A Large-scale Study on Insufficient ML Model Protection in Mobile Apps](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang)
-- [Robustness of on-device Models: Adversarial Attack to Deep Learning Models on Android Apps](https://arxiv.org/pdf/2101.04401)
-- [DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00035)
-- [Typhon Unleashed: Practical Adversarial Weight Attacks Against On-Device Deep Learning Models](https://ieeexplore.ieee.org/document/11407485)
-- [Energy-Latency Attacks to On-Device Neural Networks via Sponge Poisoning](https://arxiv.org/pdf/2305.03888)
-- [ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-based Systems](https://arxiv.org/pdf/2306.06112)
-- [ShadowNet: A Secure and Efficient On-device Model Inference System](https://arxiv.org/abs/2011.05905)
-- [THEMIS: Towards Practical IP Protection for Post-Deployment On-Device DL Models](https://www.usenix.org/conference/usenixsecurity25/presentation/huang-yujin)
+- [A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448) `[Ecosystem]`
+- [A First Look at On-device Models in iOS Apps](https://arxiv.org/pdf/2307.12328) `[Ecosystem]`
+- [Mind Your Weight(s): A Large-scale Study on Insufficient ML Model Protection in Mobile Apps](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang) `[Core Risk]` `[Model Extraction]`
+- [Robustness of On-device Models: Adversarial Attack to Deep Learning Models on Android Apps](https://arxiv.org/pdf/2101.04401) `[Attack Surface]` `[Adversarial Attack]`
+- [DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00035) `[Attack Surface]` `[Backdoor]`
+- [Typhon Unleashed: Practical Adversarial Weight Attacks Against On-Device Deep Learning Models](https://ieeexplore.ieee.org/document/11407485) `[Attack Surface]` `[Model Tampering]`
+- [Energy-Latency Attacks to On-Device Neural Networks via Sponge Poisoning](https://arxiv.org/pdf/2305.03888) `[Attack Surface]` `[Availability]`
+- [ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-based Systems](https://arxiv.org/pdf/2306.06112) `[Defense]` `[Obfuscation]`
+- [ShadowNet: A Secure and Efficient On-device Model Inference System](https://arxiv.org/abs/2011.05905) `[Defense]` `[TEE]`
+- [THEMIS: Towards Practical IP Protection for Post-Deployment On-Device DL Models](https://www.usenix.org/conference/usenixsecurity25/presentation/huang-yujin) `[Defense]` `[Watermarking]`
 
 ## Taxonomy at a glance
 
