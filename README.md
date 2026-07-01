@@ -17,6 +17,9 @@ Mobile on-device AI systems execute AI models locally through ML frameworks such
 <p align="center">
   <img src="figures/moai_system.jpg" alt="Overview of a Mobile On-Device AI system">
 </p>
+<p align="center">
+  <em>Overview of a Mobile On-Device AI system.</em>
+</p>
 
 ## Contents
 
