@@ -12,7 +12,7 @@ This repository is maintained as the companion resource for:
 > Yujin Huang, Xin Zheng, Xingliang Yuan, Kwok-Yan Lam.  
 > Paper: coming soon.
 
-Mobile on-device AI systems execute AI models locally through ML frameworks such as **LiteRT/TFLite**, **Core ML**, **ExecuTorch**, **ONNX**, and hardware-backed accelerators. This repo tracks the security research needed to understand and protect such systems where AI models are stored, loaded, and executed directly on end-user devices.
+Mobile on-device AI systems execute AI models locally through ML frameworks such as **LiteRT/TFLite**, **Core ML**, **ExecuTorch**, **ONNX**, and hardware-backed accelerators. This repo tracks the security research needed to understand and protect such systems, as the local storage of on-device models introduces new security risks.
 
 ## Contents
 
