@@ -42,21 +42,23 @@ Mobile on-device AI systems execute AI models locally through ML frameworks such
 
 ## Reading roadmap
 
-New to MOAI security? Start here:
+New to MoAI security? Start here:
 
 1. **Understand the ecosystem.** Read empirical studies on deep learning apps and on-device models in Android/iOS apps.
-2. **Learn the core risk.** Study model extraction and model protection papers, because local model residency is the central security shift in MOAI.
-3. **Map the attack surface.** Move from model stealing to adversarial attacks, backdoors, model tampering, side channels, and availability attacks.
-4. **Study defenses by deployment phase.** Pre-deployment defenses include obfuscation and authorization; runtime defenses include TEEs and secure partitioning; post-deployment defenses include watermarking.
-5. **Look forward.** Explore security challenges in on-device GenAI, local LLM serving, on-device training, and agentic mobile AI workflows.
+2. **Learn the core risk.** Study model extraction and model protection papers, because local model residency is the central security shift in MoAI systems.
+3. **Understand the attack surfaces.** Study how MoAI attacks arise across input interfaces, model artifacts, runtime execution, and hardware-backed environments.
+4. **Connect defenses to the surfaces.** Examine how MoAI defenses protect these surfaces across pre-deployment, runtime execution, and post-deployment phases.
+5. **Look forward.** Explore new security challenges in on-device training, on-device GenAI, and agentic MoAI systems.
 
 A minimal first-week reading path:
 
-- [A First Look at Deep Learning Apps on Smartphones](https://dl.acm.org/doi/10.1145/3308558.3313591)
+- [A First Look at Deep Learning Apps on Smartphones](https://arxiv.org/pdf/1812.05448)
 - [Mind Your Weight(s): A Large-scale Study on Insufficient ML Model Protection in Mobile Apps](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang)
-- [SoK: All You Need to Know About On-Device ML Model Extraction](https://www.usenix.org/conference/usenixsecurity24/presentation/nayan)
-- [Understanding Real-world Threats to Deep Learning Models in Android Apps](https://dl.acm.org/doi/10.1145/3548606.3559388)
+- [Robustness of on-device Models: Adversarial Attack to Deep Learning Models on Android Apps](https://arxiv.org/pdf/2101.04401)
 - [DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00035)
+- [Typhon Unleashed: Practical Adversarial Weight Attacks Against On-Device Deep Learning Models](https://ieeexplore.ieee.org/document/11407485)
+- [Energy-Latency Attacks to On-Device Neural Networks via Sponge Poisoning](https://arxiv.org/pdf/2305.03888)
+- [ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-based Systems](https://arxiv.org/pdf/2306.06112)
 - [ShadowNet: A Secure and Efficient On-device Model Inference System](https://arxiv.org/abs/2011.05905)
 - [THEMIS: Towards Practical IP Protection for Post-Deployment On-Device DL Models](https://www.usenix.org/conference/usenixsecurity25/presentation/huang-yujin)
 
