@@ -61,7 +61,7 @@ A minimal first-week reading path:
 • <img src="https://img.shields.io/badge/Stealing-9A3412?style=flat" height="18" align="absmiddle" />&nbsp;[Mind Your Weight(s): A Large-scale Study on Insufficient ML Model Protection in Mobile Apps](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang)
 
 <img src="https://img.shields.io/badge/Attack%20Surface-7F1D1D?style=flat" height="22" align="absmiddle" /><br>
-• <img src="https://img.shields.io/badge/Adversaril-B91C1C?style=flat" height="18" align="absmiddle" />&nbsp;[Robustness of On-device Models: Adversarial Attack to Deep Learning Models on Android Apps](https://arxiv.org/pdf/2101.04401)  
+• <img src="https://img.shields.io/badge/Adversarial-B91C1C?style=flat" height="18" align="absmiddle" />&nbsp;[Robustness of On-device Models: Adversarial Attack to Deep Learning Models on Android Apps](https://arxiv.org/pdf/2101.04401)  
 • <img src="https://img.shields.io/badge/Backdoor-BE123C?style=flat" height="18" align="absmiddle" />&nbsp;[DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00035)  
 • <img src="https://img.shields.io/badge/Weight-9F1239?style=flat" height="18" align="absmiddle" />&nbsp;[Typhon Unleashed: Practical Adversarial Weight Attacks Against On-Device Deep Learning Models](https://ieeexplore.ieee.org/document/11407485)  
 • <img src="https://img.shields.io/badge/Latency-92400E?style=flat" height="18" align="absmiddle" />&nbsp;[Energy-Latency Attacks to On-Device Neural Networks via Sponge Poisoning](https://arxiv.org/pdf/2305.03888)
