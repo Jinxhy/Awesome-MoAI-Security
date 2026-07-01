@@ -218,7 +218,7 @@ We especially welcome papers and artifacts addressing these problems:
 11. **Agentic MOAI governance.** How can mobile agents safely use sensors, app contexts, private data, and cross-app APIs while preserving user intent and device integrity?
 
 
-## Citation
+<!--## Citation
 
 If this repository helps your research, please cite the companion SoK paper:
 
@@ -230,6 +230,6 @@ If this repository helps your research, please cite the companion SoK paper:
   note         = {Companion resources: https://github.com/Jinxhy/Awesome-MoAI-Security},
   url          = {https://github.com/Jinxhy/Awesome-MoAI-Security}
 }
-```
+```-->
 
 This list is released under the [MIT License](LICENSE). Individual papers, tools, and artifacts are governed by their own licenses.
