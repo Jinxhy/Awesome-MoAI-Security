@@ -4,15 +4,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Jinxhy/Awesome-MoAI-Security?style=social)](https://github.com/Jinxhy/Awesome-MoAI-Security/stargazers)
 
-> A curated, taxonomy-driven reading list for **Mobile On-Device AI (MOAI) Security**: attacks, defenses, tools, datasets, systems, and open problems for AI models deployed directly inside mobile apps and end-user devices.
-
-Mobile on-device AI systems execute AI models locally through mobile software stacks such as **LiteRT/TFLite**, **Core ML**, **ExecuTorch**, **ONNX/ONNX Runtime**, and hardware-backed accelerators or isolation mechanisms. This repo tracks the security research needed to understand and protect such systems after models leave the developer-controlled cloud and reside on user devices.
+> A curated, taxonomy-driven reading list for **Mobile On-Device AI (MoAI) Security**: attacks, defenses, and open problems for AI models deployed directly inside mobile apps on end-user devices.
 
 This repository is maintained as the companion resource for:
 
 > **SoK: Attack and Defense Landscape of Mobile On-device AI Systems**  
 > Yujin Huang, Xin Zheng, Xingliang Yuan, Kwok-Yan Lam.  
-> Paper: coming soon. Repository: <https://github.com/Jinxhy/Awesome-MoAI-Security>
+> Paper: coming soon.
+
+Mobile on-device AI systems execute AI models locally through ML frameworks such as **LiteRT/TFLite**, **Core ML**, **ExecuTorch**, **ONNX**, and hardware-backed accelerators. This repo tracks the security research needed to understand and protect such systems where AI models are stored, loaded, and executed directly on end-user devices.
 
 ## Contents
 
