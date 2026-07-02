@@ -293,7 +293,7 @@ New to MoAI security? Start here:
 
 The following open problems summarize the main research gaps identified in our SoK. We keep the descriptions here high-level for readers using this repository; more detailed formulations, pillar mappings, and technical discussions can be found in the paper.
 
-### Attack OPs
+<img src="https://img.shields.io/badge/ATTACK%20OPS%20%E2%80%94%20FROM%20MODEL%20ACCESS%20TO%20DEPLOYABLE%20ATTACKS-7F1D1D?style=for-the-badge" height="28" align="absmiddle" />
 
 1. **Attack Deployment Practicality.**  
    Move beyond attacks that only work under strong assumptions, and study whether adversarial inputs, modified artifacts, or malicious preprocessing can be deployed through realistic MOAI input paths, app workflows, and user-side environments.
