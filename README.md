@@ -146,6 +146,41 @@ New to MoAI security? Start here:
 
 <img src="https://img.shields.io/badge/Model%20Stealing%20Attacks-9A3412?style=flat" height="24" align="absmiddle" />
 
+#### Static Analysis
+
+- [**A First Look at Deep Learning Apps on Smartphones**](https://arxiv.org/pdf/1812.05448)  
+  <sub>The World Wide Web Conference (WWW 2019)</sub>
+
+- [**A First Look at On-device Models in iOS Apps**](https://arxiv.org/pdf/2307.12328)  
+  <sub>ACM Transactions on Software Engineering and Methodology (TOSEM 2023)</sub>
+
+- [**Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps**](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang) [[Code](https://github.com/RiS3-Lab/ModelXRay)]  
+  <sub>USENIX Security Symposium (USENIX Security 2021)</sub>
+
+- [**REDLC: Learning-Driven Reverse Engineering for Deep Learning Compilers**](https://doi.org/10.1109/ISSRE62328.2024.00029)  
+  <sub>IEEE International Symposium on Software Reliability Engineering (ISSRE 2024)</sub>
+
+#### Dynamic Analysis
+
+- [**Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps**](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang) [[Code](https://github.com/RiS3-Lab/ModelXRay)]  
+  <sub>USENIX Security Symposium (USENIX Security 2021)</sub>
+
+- [**Understanding Real-world Threats to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3548606.3559388)  
+  <sub>ACM SIGSAC Conference on Computer and Communications Security (CCS 2022)</sub>
+
+- [**DeMistify: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps**](https://dl.acm.org/doi/10.1145/3597503.3623325)  
+  <sub>IEEE/ACM International Conference on Software Engineering (ICSE 2024)</sub>
+
+- [**Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms**](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-pengli)  
+  <sub>USENIX Security Symposium (USENIX Security 2025)</sub>
+
+#### Side Channel
+
+- [**Model Extraction Attack against On-Device Deep Learning with Power Side Channel**](https://doi.org/10.1109/ISQED60706.2024.10528716)  
+  <sub>IEEE International Symposium on Quality Electronic Design (ISQED 2024)</sub>
+
+- [**DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables**](https://dl.acm.org/doi/10.1145/3658644.3690239)  
+  <sub>ACM SIGSAC Conference on Computer and Communications Security (CCS 2024)</sub>
 
 <img src="https://img.shields.io/badge/Energy--latency%20Attacks-92400E?style=flat" height="24" align="absmiddle" />
 
