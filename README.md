@@ -135,6 +135,7 @@ New to MoAI security? Start here:
 - [**Beyond the Model: Data Pre-processing Attack to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3591197.3591308) [[Code](https://github.com/Alexender-Ye/attack-focused-on-pre-processing)]  
   <sub>Secure and Trustworthy Deep Learning Systems Workshop (SecTL 2023)</sub>
 
+<a id="backdoor-attacks"></a>
 <img src="https://img.shields.io/badge/Backdoor%20Attacks-BE123C?style=flat" height="24" align="absmiddle" />
 
 #### Payload Injection
@@ -155,11 +156,13 @@ New to MoAI security? Start here:
 - [**Stealthy Backdoor Attack to Real-world Models in Android Apps**](https://arxiv.org/abs/2501.01263)  
   <sub>arXiv preprint (arXiv 2025)</sub>
 
+<a id="adversarial-weight-attacks"></a>
 <img src="https://img.shields.io/badge/Adversarial%20Weight%20Attacks-9F1239?style=flat" height="24" align="absmiddle" />
 
 - [**Typhon Unleashed: Practical Adversarial Weight Attacks Against On-Device Deep Learning Models**](https://ieeexplore.ieee.org/document/11407485)  
   <sub>IEEE Transactions on Dependable and Secure Computing (TDSC 2026)</sub>
 
+<a id="model-stealing-attacks"></a>
 <img src="https://img.shields.io/badge/Model%20Stealing%20Attacks-9A3412?style=flat" height="24" align="absmiddle" />
 
 #### Static Analysis
@@ -198,6 +201,7 @@ New to MoAI security? Start here:
 - [**DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables**](https://dl.acm.org/doi/10.1145/3658644.3690239)  
   <sub>ACM SIGSAC Conference on Computer and Communications Security (CCS 2024)</sub>
 
+<a id="energy-latency-attacks"></a>
 <img src="https://img.shields.io/badge/Energy--latency%20Attacks-92400E?style=flat" height="24" align="absmiddle" />
 
 - [**Energy-Latency Attacks to On-Device Neural Networks via Sponge Poisoning**](https://dl.acm.org/doi/10.1145/3591197.3591307)  
@@ -205,6 +209,7 @@ New to MoAI security? Start here:
 
 ## Defenses for MoAI systems
 
+<a id="model-obfuscation"></a>
 <img src="https://img.shields.io/badge/Model%20Obfuscation-047857?style=flat" height="24" align="absmiddle" />
 
 #### Software-level Concealment
@@ -226,12 +231,13 @@ New to MoAI security? Start here:
 - [**A Novel Obfuscation Method Based on Majority Logic for Preventing Unauthorized Access to Binary Deep Neural Networks**](https://www.nature.com/articles/s41598-025-09722-4)<br>
   <sub>Scientific Reports (Sci. Rep. 2025)</sub>
 
-
+<a id="model-authorization"></a>
 <img src="https://img.shields.io/badge/Model%20Authorization-0A7763?style=flat" height="24" align="absmiddle" />
 
 - [**MMGuard: Automatically Protecting On-Device Deep Learning Models in Android Apps**](https://ieeexplore.ieee.org/document/9474328) [[Code](https://github.com/MMGuard123/MMGuard)]<br>
   <sub>IEEE Security and Privacy Workshops (SPW 2021)</sub>
 
+<a id="trusted-execution-environments"></a>
 <img src="https://img.shields.io/badge/Trusted%20Execution%20Environments-0F766E?style=flat" height="24" align="absmiddle" />
 
 #### Monolithic Execution
@@ -298,7 +304,7 @@ New to MoAI security? Start here:
   <sub>arXiv preprint (arXiv 2026)</sub>
 
 
-
+<a id="model-watermarking"></a>
 <img src="https://img.shields.io/badge/Model%20Watermarking-0E7490?style=flat" height="24" align="absmiddle" />
 
 
