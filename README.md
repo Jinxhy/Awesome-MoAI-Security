@@ -87,7 +87,7 @@ New to MoAI security? Start here:
 
 ## Attacks on MoAI systems
 
-### <img src="https://img.shields.io/badge/Adversarial-B91C1C?style=flat" height="18" align="absmiddle" />
+### <img src="https://img.shields.io/badge/Adversarial%20Attack-B91C1C?style=flat" height="18" align="absmiddle" />
 
 - [**Robustness of On-device Models: Adversarial Attack to Deep Learning Models on Android Apps**](https://dl.acm.org/doi/10.1109/ICSE-SEIP52600.2021.00019) — Huang et al., ICSE-SEIP 2021. `[Android]` `[adversarial attack]`  
   Code: [AppAIsecurity](https://github.com/Jinxhy/AppAIsecurity)
