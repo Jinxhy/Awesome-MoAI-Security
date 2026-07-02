@@ -139,11 +139,10 @@ New to MoAI security? Start here:
 - [**Stealthy Backdoor Attack to Real-world Models in Android Apps**](https://arxiv.org/abs/2501.01263)  
   <sub>arXiv preprint (arXiv 2025)</sub>
 
-### Adversarial weight and model-tampering attacks
+<img src="https://img.shields.io/badge/Adversarial%20Weight%20Attacks-9F1239?style=flat" height="24" align="absmiddle" />
 
-- [**Typhon Unleashed: Practical Adversarial Weight Attacks Against On-Device Deep Learning Models**](https://ieeexplore.ieee.org/document/11407485/) — Huang et al., IEEE TDSC 2026. `[adversarial weight attack]` `[model tampering]`
-
-- [**Beyond the Model: Data Pre-processing Attack to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3591197.3591308) — Sang et al., SecTL 2023. `[preprocessing tampering]` `[mobile app repackaging]`
+- [**Typhon Unleashed: Practical Adversarial Weight Attacks Against On-Device Deep Learning Models**](https://ieeexplore.ieee.org/document/11407485/)
+  <sub>IEEE Transactions on Dependable and Secure Computing (TDSC 2026)</sub>
 
 ### Model stealing and extraction attacks
 
