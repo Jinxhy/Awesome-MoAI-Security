@@ -141,13 +141,13 @@ New to MoAI security? Start here:
 
 <img src="https://img.shields.io/badge/Adversarial%20Weight%20Attacks-9F1239?style=flat" height="24" align="absmiddle" />
 
-- [**Typhon Unleashed: Practical Adversarial Weight Attacks Against On-Device Deep Learning Models**](https://ieeexplore.ieee.org/document/11407485/)
+- [**Typhon Unleashed: Practical Adversarial Weight Attacks Against On-Device Deep Learning Models**](https://ieeexplore.ieee.org/document/11407485)  
   <sub>IEEE Transactions on Dependable and Secure Computing (TDSC 2026)</sub>
 
 <img src="https://img.shields.io/badge/Model%20Stealing%20Attacks-9A3412?style=flat" height="24" align="absmiddle" />
 
 
-<img src="https://img.shields.io/badge/Energy-latency%20Attacks-92400E?style=flat" height="24" align="absmiddle" />
+<img src="https://img.shields.io/badge/Energy%20-%20latency%20Attacks-92400E?style=flat" height="24" align="absmiddle" />
 
 ### Energy-latency and availability attacks
 
