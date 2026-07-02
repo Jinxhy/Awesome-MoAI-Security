@@ -147,7 +147,7 @@ New to MoAI security? Start here:
 <img src="https://img.shields.io/badge/Model%20Stealing%20Attacks-9A3412?style=flat" height="24" align="absmiddle" />
 
 
-<img src="https://img.shields.io/badge/Energy%20-%20latency%20Attacks-92400E?style=flat" height="24" align="absmiddle" />
+<img src="https://img.shields.io/badge/Energ--%20latency%20Attacks-92400E?style=flat" height="24" align="absmiddle" />
 
 ### Energy-latency and availability attacks
 
