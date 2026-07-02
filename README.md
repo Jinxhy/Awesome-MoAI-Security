@@ -238,7 +238,7 @@ New to MoAI security? Start here:
 - [**ASGARD: Protecting On-Device Deep Neural Networks with Virtualization-Based Trusted Execution Environments**](https://www.ndss-symposium.org/ndss-paper/asgard-protecting-on-device-deep-neural-networks-with-virtualization-based-trusted-execution-environments/) [[Code](https://github.com/yonsei-sslab/asgard)]<br>
   <sub>Network and Distributed System Security Symposium (NDSS 2025)</sub>
 
-- [**TZ-LLM: Protecting On-Device Large Language Models with Arm TrustZone**](https://arxiv.org/abs/2511.13717) [[Artifact](https://zenodo.org/records/17054270)]<br>
+- [**TZ-LLM: Protecting On-Device Large Language Models with Arm TrustZone**](https://arxiv.org/abs/2511.13717) [[Code](https://zenodo.org/records/17054270)]<br>
   <sub>European Conference on Computer Systems (EuroSys 2026)</sub>
 
 - [**FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation**](https://arxiv.org/abs/2603.09046)<br>
