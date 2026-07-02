@@ -89,21 +89,20 @@ New to MoAI security? Start here:
 
 <img src="https://img.shields.io/badge/Adversarial%20Attack-B91C1C?style=flat" height="24" align="absmiddle" />
 
-- [**Robustness of On-device Models: Adversarial Attack to Deep Learning Models on Android Apps**](https://dl.acm.org/doi/10.1109/ICSE-SEIP52600.2021.00019) — Huang et al., ICSE-SEIP 2021. `[Android]` `[adversarial attack]`  
-  Code: [AppAIsecurity](https://github.com/Jinxhy/AppAIsecurity)
+- [**Robustness of On-device Models: Adversarial Attack to Deep Learning Models on Android Apps**](https://dl.acm.org/doi/10.1109/ICSE-SEIP52600.2021.00019) [[Code](https://github.com/Jinxhy/AppAIsecurity)]  
+  <sub>Venue: IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP 2021)</sub>
 
-- [**Smart App Attack: Hacking Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1109/TIFS.2022.3172213) — Huang and Chen, IEEE TIFS 2022. `[Android]` `[adversarial attack]` `[transfer attack]`  
-  Code: [SmartAppAttack](https://github.com/Jinxhy/SmartAppAttack)
+- [**Smart App Attack: Hacking Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1109/TIFS.2022.3172213) [[Code](https://github.com/Jinxhy/SmartAppAttack)]  
+  <sub>Venue: IEEE Transactions on Information Forensics and Security (TIFS 2022)</sub>
 
-- [**Understanding Real-world Threats to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3548606.3559388) — Deng et al., ACM CCS 2022. `[Android]` `[real-world model]` `[adversarial attack]`
+- [**Understanding Real-world Threats to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3548606.3559388)  
+  <sub>Venue: ACM SIGSAC Conference on Computer and Communications Security (CCS 2022)</sub>
 
-- [**Cheating Your Apps: Black-box Adversarial Attacks on Deep Learning Apps**](https://onlinelibrary.wiley.com/doi/10.1002/smr.2528) — Cao et al., Journal of Software: Evolution and Process 2024. `[black-box attack]` `[mobile apps]`
+- [**Cheating Your Apps: Black-box Adversarial Attacks on Deep Learning Apps**](https://onlinelibrary.wiley.com/doi/10.1002/smr.2528)  
+  <sub>Venue: Journal of Software: Evolution and Process (JSEP 2024)</sub>
 
-- [**Investigating White-Box Attacks for On-Device Models**](https://arxiv.org/abs/2402.05493) — Zhou et al., ICSE 2024. `[REOM]` `[white-box attack]` `[model reconstruction]`
-
-- [**TIM: Enabling Large-Scale White-Box Testing on In-App Deep Learning Models**](https://doi.org/10.1109/TIFS.2024.3455761) — Wu et al., IEEE TIFS 2024. `[white-box testing]` `[in-app DL]`
-
-- [**Beyond the Model: Data Pre-processing Attack to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3591197.3591308) — Sang et al., SecTL 2023. `[preprocessing manipulation]` `[Android]`
+- [**A First Look at On-device Models in iOS Apps**](https://dl.acm.org/doi/10.1145/3617177)  
+  <sub>Venue: ACM Transactions on Software Engineering and Methodology (TOSEM 2024)</sub>
 
 ### Backdoor attacks
 
