@@ -11,7 +11,7 @@
 <p align="center">
   <b>Yujin Huang, Xin Zheng, Xingliang Yuan, Kwok-Yan Lam</b><br><br>
   <a href="https://arxiv.org/pdf/2607.00362">
-    <img src="https://img.shields.io/badge/Paper-arXiv%3A2607.00362-B31B1B?style=flat" height="22" align="absmiddle" />
+    <img src="https://img.shields.io/badge/Paper-arXiv%3A2607.00362-B31B1B?style=flat" height="24" align="absmiddle" />
   </a>
 </p>
 
