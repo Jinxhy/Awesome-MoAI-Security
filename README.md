@@ -326,11 +326,16 @@ The following open problems summarize the main research gaps identified in our S
 
 ## Emerging directions
 
-Beyond the nine open problems above, our SoK highlights several forward-looking directions for next-generation MOAI systems:
+Beyond the nine open problems above, our SoK highlights three emerging directions where MOAI security is likely to expand next. These directions move beyond static, inference-only on-device models toward adaptive, generative, and action-oriented MoAI systems. We summarize them here at a high level. The companion paper provides more detailed motivation, threat surfaces, and research challenges.
 
-- **On-device Training Security:** protecting gradients, parameter updates, and user data when models are updated locally.
-- **On-device GenAI Security:** studying prompt injection, jailbreaks, privacy leakage, and local LLM-specific attack surfaces.
-- **Agentic MoAI System Security:** securing context-to-action chains that connect models with sensors, private data, app contexts, OS services, and cross-app interfaces.
+1. **On-device Training Security.**  
+   Current MoAI security research mainly focuses on deployed models that are read-only and inference-only. On-device training changes this assumption by allowing models to be updated locally, which exposes gradients, parameter updates, and user data during the training process. This opens new questions around local fine-tuning, update integrity, training-data exposure, personalization poisoning, and defenses for training-time states on end-user devices.
+
+2. **On-device GenAI Security.**  
+   Existing MoAI security studies are still largely centered on vision-based tasks such as image classification. As LLMs and generative models move onto smartphones, MoAI security must expand to prompt-driven and content-generating systems. Important challenges include prompt injection, jailbreaks, unintended information disclosure, and local context leakage for on-device LLM.
+
+3. **Agentic MoAI Governance.**  
+   MoAI systems are evolving from passive local inference toward agentic workflows that connect models with sensors, private user data, app contexts, OS services, and cross-app interfaces. This shifts the security focus from protecting model artifacts alone to governing context-to-action chains. Future work should study provenance for mobile context, separation of trusted user intent from untrusted environmental content, task-scoped permissions for tool and API use, confirmation and rollback for sensitive actions, and auditing of agent plans, memory, and actions.
 
 <!--## Citation
 
