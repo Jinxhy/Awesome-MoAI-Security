@@ -76,9 +76,9 @@ New to MoAI security? Start here:
 
 | MOAI security pillar | What it protects | Representative attacks | Representative defenses |
 |---|---|---|---|
-| **User-governed input integrity** | The path from user-controlled mobile input to model input | Adversarial examples, trigger inputs, preprocessing manipulation, energy-latency attacks | Input validation, robust preprocessing, model testing, runtime monitoring |
-| **Device-resident model security** | Local model artifacts, weights, graphs, operators, I/O specs, and ownership | Model stealing, model tampering, backdoors, adversarial weight attacks | Obfuscation, authorization, watermarking, encrypted packaging |
-| **Device-native environment confinement** | Runtime states, memory, accelerators, TEEs, OS/runtime isolation | Dynamic extraction, side channels, TEE partition leakage, accelerator leakage | TEE-backed inference, model partitioning, obfuscated offloading, hardware-backed isolation |
+| **User-governed input integrity** | The end-to-end integrity of user-governed inputs, from mobile data acquisition to model-input handoff | Adversarial examples, trigger inputs, preprocessing manipulation, energy-latency attacks | Input validation, robust preprocessing, model testing, runtime monitoring |
+| **Device-resident model security** | Deployed model artifacts and all post-deployment forms in which models are stored, loaded, transformed, or materialized on devices | Model stealing, model tampering, backdoors, adversarial weight attacks | Obfuscation, authorization, watermarking, encrypted packaging |
+| **Device-native environment confinement** | MOAI computation and sensitive runtime states across the mobile OS, AI runtime, memory subsystem, and hardware-backed execution environments | Dynamic extraction, side channels, TEE partition leakage, accelerator leakage | TEE-backed inference, model partitioning, obfuscated offloading, hardware-backed isolation |
 
 ## Attacks on MoAI systems
 
