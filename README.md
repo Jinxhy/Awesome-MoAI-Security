@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Companion%20Resource%20for-SoK%20on%20MOAI%20Security-2563EB?style=for-the-badge" height="28" align="absmiddle" />
+  <img src="https://img.shields.io/badge/Companion%20Resource%20for-SoK%20on%20MoAI%20Security-2563EB?style=for-the-badge" height="28" align="absmiddle" />
 </p>
 
 <h3 align="center">SoK: Attack and Defense Landscape of Mobile On-device AI Systems</h3>
