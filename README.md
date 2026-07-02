@@ -148,30 +148,30 @@ New to MoAI security? Start here:
 
 #### Static Analysis
 
-- [**A First Look at Deep Learning Apps on Smartphones**](https://arxiv.org/pdf/1812.05448) [[Code](https://github.com/xumengwei/MobileDL)]
+- [**A First Look at Deep Learning Apps on Smartphones**](https://arxiv.org/pdf/1812.05448) [[Code](https://github.com/xumengwei/MobileDL)]<br>
   <sub>The World Wide Web Conference (WWW 2019)</sub>
 
-- [**A First Look at On-device Models in iOS Apps**](https://arxiv.org/pdf/2307.12328) [[Code](https://github.com/huhanGitHub/iOS-App-database)] 
+- [**A First Look at On-device Models in iOS Apps**](https://arxiv.org/pdf/2307.12328) [[Code](https://github.com/huhanGitHub/iOS-App-database)]<br>
   <sub>ACM Transactions on Software Engineering and Methodology (TOSEM 2023)</sub>
 
-- [**Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps**](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang) [[Code](https://github.com/RiS3-Lab/ModelXRay)]  
+- [**Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps**](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang) [[Code](https://github.com/RiS3-Lab/ModelXRay)]<br>
   <sub>USENIX Security Symposium (USENIX Security 2021)</sub>
 
-- [**REDLC: Learning-Driven Reverse Engineering for Deep Learning Compilers**](https://doi.org/10.1109/ISSRE62328.2024.00029)  
+- [**REDLC: Learning-Driven Reverse Engineering for Deep Learning Compilers**](https://doi.org/10.1109/ISSRE62328.2024.00029)<br>
   <sub>IEEE International Symposium on Software Reliability Engineering (ISSRE 2024)</sub>
 
 #### Dynamic Analysis
 
-- [**Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps**](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang) [[Code](https://github.com/RiS3-Lab/ModelXRay)]  
+- [**Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps**](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang) [[Code](https://github.com/RiS3-Lab/ModelXRay)]<br>
   <sub>USENIX Security Symposium (USENIX Security 2021)</sub>
 
-- [**Understanding Real-world Threats to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3548606.3559388) [[Code](https://github.com/Advdroid/advdroid-pro)] 
+- [**Understanding Real-world Threats to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3548606.3559388) [[Code](https://github.com/Advdroid/advdroid-pro)]<br>
   <sub>ACM SIGSAC Conference on Computer and Communications Security (CCS 2022)</sub>
 
-- [**DeMistify: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps**](https://dl.acm.org/doi/10.1145/3597503.3623325) [[Code](https://github.com/MGYN/DeMistify)] 
+- [**DeMistify: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps**](https://dl.acm.org/doi/10.1145/3597503.3623325) [[Code](https://github.com/MGYN/DeMistify)]<br>
   <sub>IEEE/ACM International Conference on Software Engineering (ICSE 2024)</sub>
 
-- [**Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms**](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-pengli) [[Code](https://github.com/qsxltss/Game-of-Arrows)]  
+- [**Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms**](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-pengli) [[Code](https://github.com/qsxltss/Game-of-Arrows)]<br>
   <sub>USENIX Security Symposium (USENIX Security 2025)</sub>
 
 #### Side Channel
