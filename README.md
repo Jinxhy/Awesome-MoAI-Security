@@ -74,9 +74,9 @@ New to MoAI security? Start here:
 
 ## Taxonomy at a glance
 
-| MOAI security pillar | What it protects | Representative attacks | Representative defenses |
+| MoAI security pillar | What it protects | Representative attacks | Representative defenses |
 |---|---|---|---|
-| **User-governed input integrity** | The end-to-end integrity of user-governed inputs, from mobile data acquisition to model-input handoff | Adversarial examples, trigger inputs, preprocessing manipulation, energy-latency attacks | Input validation, robust preprocessing, model testing, runtime monitoring |
+| **User-governed input integrity** | The end-to-end integrity of user inputs, from mobile data acquisition to model-input handoff | Adversarial examples, trigger inputs, preprocessing manipulation, energy-latency attacks | Input validation, robust preprocessing, model testing, runtime monitoring |
 | **Device-resident model security** | Deployed model artifacts and all post-deployment forms in which models are stored, loaded, transformed, or materialized on devices | Model stealing, model tampering, backdoors, adversarial weight attacks | Obfuscation, authorization, watermarking, encrypted packaging |
 | **Device-native environment confinement** | Sensitive inference computation and runtime states across the mobile OS, AI runtime, memory subsystem, and hardware-backed execution environments | Dynamic extraction, side channels, TEE partition leakage, accelerator leakage | TEE-backed inference, model partitioning, obfuscated offloading, hardware-backed isolation |
 
