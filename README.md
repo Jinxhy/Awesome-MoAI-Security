@@ -310,7 +310,7 @@ The following open problems summarize the main research gaps identified in our S
 5. **Hardware Heterogeneity.**  
    Study how MOAI attacks transfer across diverse mobile hardware and runtime stacks, including CPUs, GPUs, NPUs, DSPs, Neural Engines, delegates, memory hierarchies, and scheduling policies.
 
-### Defense OPs
+<img src="https://img.shields.io/badge/DEFENSE%20OPS%20%E2%80%94%20FROM%20PROTECTION%20MECHANISMS%20TO%20POST--RELEASE%20GUARANTEES-166534?style=for-the-badge" height="28" align="absmiddle" />
 
 6. **Executable Equivalence.**  
    Design obfuscation defenses that preserve correct inference while reducing the recoverable signals exposed during authorized execution, such as runtime states, transformed weights, operator semantics, or reconstructed computation paths.
