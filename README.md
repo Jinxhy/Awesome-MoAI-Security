@@ -324,7 +324,7 @@ The following open problems summarize the main research gaps identified in our S
 9. **Watermark Robustness.**  
    Make post-deployment ownership verification reliable after stolen models are converted, compressed, encrypted, repackaged, wrapped behind APIs, or otherwise transformed for reuse.
 
-### Emerging directions
+## Emerging directions
 
 Beyond the nine open problems above, our SoK highlights several forward-looking directions for next-generation MOAI systems:
 
