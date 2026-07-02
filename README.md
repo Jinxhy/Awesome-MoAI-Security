@@ -296,33 +296,33 @@ The following open problems summarize the main research gaps identified in our S
 <img src="https://img.shields.io/badge/ATTACK%20OPS%20%E2%80%94%20FROM%20MODEL%20ACCESS%20TO%20DEPLOYABLE%20ATTACKS-7F1D1D?style=for-the-badge" height="28" align="absmiddle" />
 
 1. **Attack Deployment Practicality.**  
-   Move beyond attacks that only work under strong assumptions, and study whether adversarial inputs, modified artifacts, or malicious preprocessing can be deployed through realistic MOAI input paths, app workflows, and user-side environments.
+Adversarial attacks against on-device models remain hard to realize after deployment because they often require control over model inputs, insertion of adversarial perturbations, or app repackaging to modify preprocessing code. These steps can be impractical or detectable in real end-user deployments.
 
 2. **Stealthy Model Modification.**  
-   Understand how deployed models can be maliciously modified while preserving normal utility and avoiding obvious changes in model structure, app behavior, or inference outputs.
+Backdoor attacks must find post-deployment entry points beyond standard training-time poisoning because on-device models are typically read-only and inference-only. The key challenge is to introduce hidden malicious behavior without producing observable changes in model artifacts, app behavior, or benign inference.
 
 3. **Precise Weight Localization.**  
-   Identify behavior-critical parameters in large, optimized, and inference-only on-device models, where small weight changes may induce targeted effects but the search space is highly coupled and difficult to analyze.
+Adversarial weight attacks expose a parameter-level integrity risk, but practical deployment depends on locating behavior-critical weights in large and highly coupled on-device models. This is difficult because attackers often lack gradient guidance and must preserve benign utility while modifying only selected parameters.
 
 4. **Reliable Model Extraction.**  
-   Develop extraction techniques and evaluations that account for real deployment barriers, including customized packaging, model encryption, runtime loading, proprietary framework behavior, and incomplete in-memory representations.
+Local model storage does not make model stealing straightforward. Practical extraction still depends on reliable model identification, decryption, and reconstruction in the presence of customized encryption algorithms, nonstandard AI frameworks, and runtime-specific loading behavior.
 
 5. **Hardware Heterogeneity.**  
-   Study how MOAI attacks transfer across diverse mobile hardware and runtime stacks, including CPUs, GPUs, NPUs, DSPs, Neural Engines, delegates, memory hierarchies, and scheduling policies.
+Energy-latency attacks depend on how poisoned activation patterns interact with device-specific execution behavior. They may amplify latency and energy consumption on sparsity-sensitive accelerators, but fail to transfer to hardware or runtimes without sparsity-dependent execution.
 
 <img src="https://img.shields.io/badge/DEFENSE%20OPS%20%E2%80%94%20FROM%20PROTECTION%20MECHANISMS%20TO%20POST--RELEASE%20GUARANTEES-166534?style=for-the-badge" height="28" align="absmiddle" />
 
 6. **Executable Equivalence.**  
-   Design obfuscation defenses that preserve correct inference while reducing the recoverable signals exposed during authorized execution, such as runtime states, transformed weights, operator semantics, or reconstructed computation paths.
+Model obfuscation must still preserve the original prediction function during authorized inference. This executable equivalence can expose recoverable runtime states, transformed weights, operator semantics, or structural traces that enable semantic, structural, or parameter recovery.
 
 7. **Client-side Enforcement.**  
-   Strengthen authorization and integrity checks when credentials, hashes, model-unpacking logic, and verification code must execute inside mobile environments that attackers can reverse engineer, repackage, hook, or instrument.
+Model authorization binds correct inference to credentials, integrity checks, and packed-weight recovery. However, these checks must execute inside the mobile stack, making enforcement dependent on client-side code that can be reverse engineered, repackaged, hooked, or instrumented after deployment.
 
 8. **TEE Deployment Feasibility.**  
-   Bridge the gap between secure-inference prototypes and practical deployment across heterogeneous model formats, AI frameworks, operator libraries, hardware accelerators, memory limits, and mobile OS isolation interfaces.
+TEE defenses require coordinated support across model formats, AI frameworks, operator libraries, delegates, accelerators, and CPU/GPU/NPU isolation interfaces. Current mobile ecosystems still lack widely adopted, developer-transparent TEE-backed inference stacks.
 
 9. **Watermark Robustness.**  
-   Make post-deployment ownership verification reliable after stolen models are converted, compressed, encrypted, repackaged, wrapped behind APIs, or otherwise transformed for reuse.
+Model watermarking enables post-deployment ownership verification, but stolen models may be redeployed through framework conversion, encryption, or app-level input-output mediation. These transformations can preserve benign inference while disrupting trigger responses, confidence patterns, or output semantics used for verification.
 
 ## Emerging directions
 
