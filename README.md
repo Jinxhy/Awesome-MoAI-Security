@@ -284,6 +284,7 @@ New to MoAI security? Start here:
 
 
 <img src="https://img.shields.io/badge/Model%20Watermarking-0E7490?style=flat" height="24" align="absmiddle" />
+
 - [**THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models**](https://www.usenix.org/conference/usenixsecurity25/presentation/huang-yujin) [[Code](https://github.com/Jinxhy/THEMIS)]<br>
   <sub>USENIX Security Symposium (USENIX Security 2025)</sub>
 
