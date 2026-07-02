@@ -10,7 +10,7 @@ This repository is maintained as the companion resource for:
 
 > **SoK: Attack and Defense Landscape of Mobile On-device AI Systems**  
 > Yujin Huang, Xin Zheng, Xingliang Yuan, Kwok-Yan Lam.  
-> Paper: coming soon.
+> Paper: https://arxiv.org/pdf/2607.00362
 
 Mobile on-device AI systems execute AI models locally through ML frameworks such as **LiteRT/TFLite**, **Core ML**, **ExecuTorch**, **ONNX**, and hardware-backed accelerators. This repo tracks the security research needed to understand and protect such systems, as the local storage of on-device models introduces new security risks.
 
@@ -291,20 +291,46 @@ New to MoAI security? Start here:
 
 ## Open problems
 
-We especially welcome papers and artifacts addressing these problems:
+The following open problems summarize the main research gaps identified in our SoK. We keep the descriptions here high-level for readers using this repository; more detailed formulations, pillar mappings, and technical discussions can be found in the paper.
 
-1. **Attack deployment practicality.** How can MOAI attacks be evaluated under realistic user-governed input paths and app-store deployment constraints?
-2. **Stealthy model modification.** How can attackers or defenders reason about model changes that preserve normal functionality while altering hidden behavior?
-3. **Precise weight localization.** How can security analysis identify behavior-critical weights in large, optimized, and inference-only on-device models?
-4. **Reliable model extraction.** How can extraction analysis handle customized encryption, proprietary runtimes, and nonstandard packaging?
-5. **Hardware heterogeneity.** How do attacks and defenses transfer across CPUs, GPUs, NPUs, DSPs, Neural Engines, and vendor-specific delegates?
-6. **Executable equivalence.** How can model obfuscation preserve functionality while avoiding recoverable runtime states?
-7. **Client-side enforcement.** How robust are authorization checks when credentials, hashes, and packed-weight recovery logic execute inside attacker-controlled mobile stacks?
-8. **TEE deployment feasibility.** How can secure inference become developer-friendly across heterogeneous model formats, frameworks, operator libraries, and accelerator interfaces?
-9. **Watermark robustness.** How can model ownership remain verifiable after conversion, compression, encryption, repackaging, or API-level mediation?
-10. **On-device GenAI security.** How should prompt injection, jailbreaking, data leakage, and tool misuse be modeled when LLMs execute locally?
-11. **Agentic MOAI governance.** How can mobile agents safely use sensors, app contexts, private data, and cross-app APIs while preserving user intent and device integrity?
+### Attack OPs
 
+1. **Attack Deployment Practicality.**  
+   Move beyond attacks that only work under strong assumptions, and study whether adversarial inputs, modified artifacts, or malicious preprocessing can be deployed through realistic MOAI input paths, app workflows, and user-side environments.
+
+2. **Stealthy Model Modification.**  
+   Understand how deployed models can be maliciously modified while preserving normal utility and avoiding obvious changes in model structure, app behavior, or inference outputs.
+
+3. **Precise Weight Localization.**  
+   Identify behavior-critical parameters in large, optimized, and inference-only on-device models, where small weight changes may induce targeted effects but the search space is highly coupled and difficult to analyze.
+
+4. **Reliable Model Extraction.**  
+   Develop extraction techniques and evaluations that account for real deployment barriers, including customized packaging, model encryption, runtime loading, proprietary framework behavior, and incomplete in-memory representations.
+
+5. **Hardware Heterogeneity.**  
+   Study how MOAI attacks transfer across diverse mobile hardware and runtime stacks, including CPUs, GPUs, NPUs, DSPs, Neural Engines, delegates, memory hierarchies, and scheduling policies.
+
+### Defense OPs
+
+6. **Executable Equivalence.**  
+   Design obfuscation defenses that preserve correct inference while reducing the recoverable signals exposed during authorized execution, such as runtime states, transformed weights, operator semantics, or reconstructed computation paths.
+
+7. **Client-side Enforcement.**  
+   Strengthen authorization and integrity checks when credentials, hashes, model-unpacking logic, and verification code must execute inside mobile environments that attackers can reverse engineer, repackage, hook, or instrument.
+
+8. **TEE Deployment Feasibility.**  
+   Bridge the gap between secure-inference prototypes and practical deployment across heterogeneous model formats, AI frameworks, operator libraries, hardware accelerators, memory limits, and mobile OS isolation interfaces.
+
+9. **Watermark Robustness.**  
+   Make post-deployment ownership verification reliable after stolen models are converted, compressed, encrypted, repackaged, wrapped behind APIs, or otherwise transformed for reuse.
+
+### Emerging directions
+
+Beyond the nine open problems above, our SoK highlights several forward-looking directions for next-generation MOAI systems:
+
+- **On-device Training Security:** protecting gradients, parameter updates, and user data when models are updated locally.
+- **On-device GenAI Security:** studying prompt injection, jailbreaks, privacy leakage, and local LLM-specific attack surfaces.
+- **Agentic MoAI System Security:** securing context-to-action chains that connect models with sensors, private data, app contexts, OS services, and cross-app interfaces.
 
 <!--## Citation
 
