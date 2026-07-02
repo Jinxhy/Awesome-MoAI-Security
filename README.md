@@ -218,35 +218,69 @@ New to MoAI security? Start here:
 
 <img src="https://img.shields.io/badge/Trusted%20Execution%20Environments-0F766E?style=flat" height="24" align="absmiddle" />
 
-- [**Offline Model Guard: Secure and Private ML on Mobile Devices**](https://doi.org/10.23919/DATE48585.2020.9116560) — Bayerl et al., DATE 2020. `[TEE]` `[mobile ML]`
+#### Monolithic Execution
 
-- [**DarkneTZ: Towards Model Privacy at the Edge Using Trusted Execution Environments**](https://dl.acm.org/doi/10.1145/3386901.3388946) — Mo et al., MobiSys 2020. `[TEE]` `[model partitioning]`
+- [**Offline Model Guard: Secure and Private ML on Mobile Devices**](https://arxiv.org/abs/2007.02351)<br>
+  <sub>Design, Automation and Test in Europe Conference (DATE 2020)</sub>
 
-- [**SecDeep: Secure and Performant On-Device Deep Learning Inference Framework for Mobile and IoT Devices**](https://dl.acm.org/doi/10.1145/3450268.3453524) — Liu et al., IoTDI 2021. `[TrustZone]` `[secure inference]`
+- [**GuardiaNN: Fast and Secure On-Device Inference in TrustZone Using Embedded SRAM and Cryptographic Hardware**](https://dl.acm.org/doi/10.1145/3528535.3531513)<br>
+  <sub>ACM/IFIP International Middleware Conference (Middleware 2022)</sub>
 
-- [**GuardiaNN: Fast and Secure On-Device Inference in TrustZone Using Embedded SRAM and Cryptographic Hardware**](https://doi.org/10.1145/3528535.3531513) — Choi et al., Middleware 2022. `[TrustZone]` `[secure inference]`
+- [**Secure and Efficient Mobile DNN Using Trusted Execution Environments**](https://dl.acm.org/doi/10.1145/3579856.3582820)<br>
+  <sub>ACM Asia Conference on Computer and Communications Security (AsiaCCS 2023)</sub>
 
-- [**LEAP: TrustZone Based Developer-Friendly TEE for Intelligent Mobile Apps**](https://doi.org/10.1109/TMC.2022.3207745) — Sun et al., IEEE TMC 2022. `[TrustZone]` `[mobile apps]`
+- [**T-Slices: Confidential Execution of Deep Learning Inference at the Untrusted Edge with Arm TrustZone**](https://dl.acm.org/doi/10.1145/3577923.3583648)<br>
+  <sub>ACM Conference on Data and Application Security and Privacy (CODASPY 2023)</sub>
 
-- [**ShadowNet: A Secure and Efficient On-device Model Inference System for Convolutional Neural Networks**](https://ieeexplore.ieee.org/document/10179382/) — Sun et al., IEEE S&P 2023. `[TEE]` `[obfuscated offloading]` `[accelerator]`
+- [**LEAP: TrustZone Based Developer-Friendly TEE for Intelligent Mobile Apps**](https://dl.acm.org/doi/10.1109/TMC.2022.3207745)<br>
+  <sub>IEEE Transactions on Mobile Computing (TMC 2022)</sub>
 
-- [**Secure and Efficient Mobile DNN Using Trusted Execution Environments**](https://dl.acm.org/doi/10.1145/3579856.3582820) — Hu et al., ACM AsiaCCS 2023. `[TEE]` `[mobile DNN]`
+- [**ASGARD: Protecting On-Device Deep Neural Networks with Virtualization-Based Trusted Execution Environments**](https://www.ndss-symposium.org/ndss-paper/asgard-protecting-on-device-deep-neural-networks-with-virtualization-based-trusted-execution-environments/) [[Code](https://github.com/yonsei-sslab/asgard)]<br>
+  <sub>Network and Distributed System Security Symposium (NDSS 2025)</sub>
 
-- [**T-Slices: Confidential Execution of Deep Learning Inference at the Untrusted Edge with Arm TrustZone**](https://doi.org/10.1145/3577923.3583648) — Islam et al., CODASPY 2023. `[TrustZone]` `[confidential inference]`
+- [**TZ-LLM: Protecting On-Device Large Language Models with Arm TrustZone**](https://arxiv.org/abs/2511.13717) [[Artifact](https://zenodo.org/records/17054270)]<br>
+  <sub>European Conference on Computer Systems (EuroSys 2026)</sub>
 
-- [**MirrorNet: A TEE-Friendly Framework for Secure On-Device DNN Inference**](https://arxiv.org/abs/2311.09489) — Liu et al., ICCAD 2023. `[TEE]` `[secure inference]`
+- [**FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation**](https://arxiv.org/abs/2603.09046)<br>
+  <sub>arXiv preprint (arXiv 2026)</sub>
 
-- [**GroupCover: A Secure, Efficient and Scalable Inference Framework for On-Device Model Protection Based on TEEs**](https://proceedings.mlr.press/v235/zhang24bn.html) — Zhang et al., ICML 2024. `[TEE]` `[obfuscated offloading]`
+#### Partitioned Execution
 
-- [**ASGARD: Protecting On-Device Deep Neural Networks with Virtualization-Based Trusted Execution Environments**](https://www.ndss-symposium.org/ndss-paper/asgard-protecting-on-device-deep-neural-networks-with-virtualization-based-trusted-execution-environments/) — Moon et al., NDSS 2025. `[virtualization]` `[TEE]` `[accelerator isolation]`
+- [**DarkneTZ: Towards Model Privacy at the Edge Using Trusted Execution Environments**](https://arxiv.org/abs/2004.05703) [[Code](https://github.com/mofanv/darknetz)]<br>
+  <sub>Annual International Conference on Mobile Systems, Applications, and Services (MobiSys 2020)</sub>
 
-- [**TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE**](https://dl.acm.org/doi/10.1145/3719027.3744798) — Sun et al., ACM CCS 2025. `[TEE]` `[critical tensors]` `[efficient protection]`
+- [**HybridTEE: Secure Mobile DNN Execution Using Hybrid Trusted Execution Environment**](https://par.nsf.gov/servlets/purl/10217344) [[Code](https://github.com/hwsel/HybridTEE)]<br>
+  <sub>Asian Hardware Oriented Security and Trust Symposium (AsianHOST 2020)</sub>
 
-- [**ARROWCLOAK / Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms**](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-pengli) — Wang et al., USENIX Security 2025. `[TEE]` `[on-device LLM]` `[weight obfuscation]`
+- [**SecDeep: Secure and Performant On-Device Deep Learning Inference Framework for Mobile and IoT Devices**](https://dl.acm.org/doi/10.1145/3450268.3453524)<br>
+  <sub>International Conference on Internet-of-Things Design and Implementation (IoTDI 2021)</sub>
 
-- [**TZ-LLM: Protecting On-Device Large Language Models with Arm TrustZone**](https://arxiv.org/abs/2511.13717) — Wang et al., EuroSys 2026. `[TrustZone]` `[on-device LLM]`
+- [**ShadowNet: A Secure and Efficient On-Device Model Inference System for Convolutional Neural Networks**](https://ieeexplore.ieee.org/document/10179382) [[Code](https://github.com/RiS3-Lab/ShadowNet)]<br>
+  <sub>IEEE Symposium on Security and Privacy (S&P 2023)</sub>
 
-- [**FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation**](https://arxiv.org/abs/2606.23370) — Wu et al., arXiv 2026. `[mobile LLM]` `[resource isolation]`
+- [**MirrorNet: A TEE-Friendly Framework for Secure On-Device DNN Inference**](https://arxiv.org/abs/2311.09489)<br>
+  <sub>IEEE/ACM International Conference on Computer-Aided Design (ICCAD 2023)</sub>
+
+- [**TSQP: Safeguarding Real-Time Inference for Quantization Neural Networks on Edge Devices**](https://ieeexplore.ieee.org/document/11023493) [[Code](https://github.com/D1aoBoomm/TSQP)]<br>
+  <sub>IEEE Symposium on Security and Privacy (S&P 2025)</sub>
+
+- [**TEESlice: Protecting Sensitive Neural Network Models in Trusted Execution Environments When Attackers Have Pre-Trained Models**](https://dl.acm.org/doi/10.1145/3707453)<br>
+  <sub>ACM Transactions on Software Engineering and Methodology (TOSEM 2025)</sub>
+
+- [**TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE**](https://arxiv.org/abs/2505.22735) [[Code](https://github.com/suntong30/TensorShield)]<br>
+  <sub>ACM SIGSAC Conference on Computer and Communications Security (CCS 2025)</sub>
+
+#### Obfuscated Offloading
+
+- [**GroupCover: A Secure, Efficient and Scalable Inference Framework for On-Device Model Protection Based on TEEs**](https://proceedings.mlr.press/v235/zhang24bn.html) [[Code](https://github.com/ZzzzMe/GroupCover)]<br>
+  <sub>International Conference on Machine Learning (ICML 2024)</sub>
+
+- [**Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms**](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-pengli) [[Code](https://github.com/qsxltss/Game-of-Arrows)]<br>
+  <sub>USENIX Security Symposium (USENIX Security 2025)</sub>
+
+- [**MirageNet: A Secure, Efficient, and Scalable On-Device Model Protection in Heterogeneous TEE and GPU System**](https://arxiv.org/abs/2601.13826)<br>
+  <sub>arXiv preprint (arXiv 2026)</sub>
+
 
 
 <img src="https://img.shields.io/badge/Model%20Watermarking-0E7490?style=flat" height="24" align="absmiddle" />
