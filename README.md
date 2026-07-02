@@ -144,29 +144,10 @@ New to MoAI security? Start here:
 - [**Typhon Unleashed: Practical Adversarial Weight Attacks Against On-Device Deep Learning Models**](https://ieeexplore.ieee.org/document/11407485/)
   <sub>IEEE Transactions on Dependable and Secure Computing (TDSC 2026)</sub>
 
-### Model stealing and extraction attacks
+<img src="https://img.shields.io/badge/Model%20Stealing%20Attacks-9A3412?style=flat" height="24" align="absmiddle" />
 
-- [**Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps**](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang) — Sun et al., USENIX Security 2021. `[model stealing]` `[mobile apps]`  
-  Code: [ModelXRay](https://github.com/RiS3-Lab/ModelXRay)
 
-- [**SoK: All You Need to Know About On-Device ML Model Extraction - The Gap Between Research and Practice**](https://www.usenix.org/conference/usenixsecurity24/presentation/nayan) — Nayan et al., USENIX Security 2024. `[model extraction]` `[SoK]`  
-  Repo: [ML_Extraction_Sok](https://github.com/sys-ris3/ML_Extraction_Sok)
-
-- [**DeMistify: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps**](https://dl.acm.org/doi/10.1145/3597503.3623325) — Ren et al., ICSE 2024. `[dynamic analysis]` `[model reuse]`
-
-- [**REDLC: Learning-Driven Reverse Engineering for Deep Learning Compilers**](https://doi.org/10.1109/ISSRE62328.2024.00029) — Li et al., ISSRE 2024. `[compiler reverse engineering]` `[model recovery]`
-
-- [**A First Look at On-device Models in iOS Apps**](https://dl.acm.org/doi/10.1145/3617177) — Hu et al., ACM TOSEM 2024. `[iOS]` `[Core ML]` `[model extraction]`
-
-### Side-channel and runtime attacks
-
-- [**Model Extraction Attack against On-Device Deep Learning with Power Side Channel**](https://doi.org/10.1109/ISQED60706.2024.10528716) — Liu and Wang, ISQED 2024. `[power side channel]` `[model extraction]`
-
-- [**DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables**](https://dl.acm.org/doi/10.1145/3658644.3690239) — Liu et al., ACM CCS 2024. `[cache side channel]` `[compiled DNN]`
-
-- [**Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms**](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-pengli) — Wang et al., USENIX Security 2025. `[TEE]` `[LLM]` `[weight recovery]`
-
-- [**No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML**](https://doi.org/10.1109/SP54263.2024.00052) — Zhang et al., IEEE S&P 2024. `[TEE partition]` `[privacy leakage]`
+<img src="https://img.shields.io/badge/Energy-latency%20Attacks-92400E?style=flat" height="24" align="absmiddle" />
 
 ### Energy-latency and availability attacks
 
