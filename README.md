@@ -248,10 +248,9 @@ New to MoAI security? Start here:
 
 - [**FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation**](https://arxiv.org/abs/2606.23370) — Wu et al., arXiv 2026. `[mobile LLM]` `[resource isolation]`
 
-### Model watermarking and post-deployment accountability
 
-- [**THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models**](https://www.usenix.org/conference/usenixsecurity25/presentation/huang-yujin) — Huang et al., USENIX Security 2025. `[watermarking]` `[IP protection]` `[post-deployment]`  
-  Code: [THEMIS](https://github.com/Jinxhy/THEMIS)
+<img src="https://img.shields.io/badge/Model%20Watermarking-0E7490?style=flat" height="24" align="absmiddle" />
+
 
 
 ## Open problems
