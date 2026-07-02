@@ -1,3 +1,5 @@
+# Awesome Mobile On-Device AI Security
+
 <p align="center">
   <img src="https://img.shields.io/badge/Companion%20Resource%20for-SoK%20on%20MoAI%20Security-2563EB?style=for-the-badge" height="32" align="absmiddle" />
 </p>
