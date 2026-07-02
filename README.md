@@ -291,7 +291,7 @@ New to MoAI security? Start here:
 
 ## Open problems
 
-The following open problems summarize the main research gaps identified in our SoK. We keep the descriptions here high-level for readers using this repository; more detailed formulations, pillar mappings, and technical discussions can be found in the paper.
+The following open problems summarize the main research gaps identified in our SoK. We keep the descriptions here high-level for readers using this repository. More technical discussions can be found in the paper.
 
 <img src="https://img.shields.io/badge/ATTACK%20OPS%20%E2%80%94%20FROM%20MODEL%20ACCESS%20TO%20DEPLOYABLE%20ATTACKS-7F1D1D?style=for-the-badge" height="28" align="absmiddle" />
 
