@@ -97,26 +97,26 @@ New to MoAI security? Start here:
 - [**Smart App Attack: Hacking Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1109/TIFS.2022.3172213) [[Code](https://github.com/Jinxhy/SmartAppAttack)]  
   <sub>IEEE Transactions on Information Forensics and Security (TIFS 2022)</sub>
 
-- [**Understanding Real-world Threats to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3548606.3559388)  
+- [**Understanding Real-world Threats to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3548606.3559388) [[Code](https://github.com/Advdroid/advdroid-pro)]    
   <sub>ACM SIGSAC Conference on Computer and Communications Security (CCS 2022)</sub>
 
 - [**Cheating Your Apps: Black-box Adversarial Attacks on Deep Learning Apps**](https://onlinelibrary.wiley.com/doi/10.1002/smr.2528)  
   <sub>Journal of Software: Evolution and Process (JSEP 2024)</sub>
 
-- [**A First Look at On-device Models in iOS Apps**](https://dl.acm.org/doi/10.1145/3617177)  
+- [**A First Look at On-device Models in iOS Apps**](https://dl.acm.org/doi/10.1145/3617177) [[Code](https://github.com/huhanGitHub/iOS-App-database)]  
   <sub>ACM Transactions on Software Engineering and Methodology (TOSEM 2024)</sub>
 
 #### Gradient Reconstruction
 
-- [**Investigating White-Box Attacks for On-Device Models**](https://arxiv.org/abs/2402.05493)  
+- [**Investigating White-Box Attacks for On-Device Models**](https://arxiv.org/abs/2402.05493) [[Code](https://github.com/zhoumingyi/REOM)]  
   <sub>IEEE/ACM International Conference on Software Engineering (ICSE 2024)</sub>
 
-- [**TIM: Enabling Large-Scale White-Box Testing on In-App Deep Learning Models**](https://doi.org/10.1109/TIFS.2024.3455761)  
+- [**TIM: Enabling Large-Scale White-Box Testing on In-App Deep Learning Models**](https://doi.org/10.1109/TIFS.2024.3455761) [[Code](https://zenodo.org/record/7548141)]  
   <sub>IEEE Transactions on Information Forensics and Security (TIFS 2024)</sub>
 
 #### Preprocessing Manipulation
 
-- [**Beyond the Model: Data Pre-processing Attack to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3591197.3591308)  
+- [**Beyond the Model: Data Pre-processing Attack to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3591197.3591308) [[Code](https://github.com/Alexender-Ye/attack-focused-on-pre-processing)]  
   <sub>Secure and Trustworthy Deep Learning Systems Workshop (SecTL 2023)</sub>
 
 <img src="https://img.shields.io/badge/Backdoor%20Attacks-BE123C?style=flat" height="24" align="absmiddle" />
@@ -148,10 +148,10 @@ New to MoAI security? Start here:
 
 #### Static Analysis
 
-- [**A First Look at Deep Learning Apps on Smartphones**](https://arxiv.org/pdf/1812.05448)  
+- [**A First Look at Deep Learning Apps on Smartphones**](https://arxiv.org/pdf/1812.05448) [[Code](https://github.com/xumengwei/MobileDL)] 
   <sub>The World Wide Web Conference (WWW 2019)</sub>
 
-- [**A First Look at On-device Models in iOS Apps**](https://arxiv.org/pdf/2307.12328)  
+- [**A First Look at On-device Models in iOS Apps**](https://arxiv.org/pdf/2307.12328) [[Code](https://github.com/huhanGitHub/iOS-App-database)] 
   <sub>ACM Transactions on Software Engineering and Methodology (TOSEM 2023)</sub>
 
 - [**Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps**](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang) [[Code](https://github.com/RiS3-Lab/ModelXRay)]  
@@ -165,13 +165,13 @@ New to MoAI security? Start here:
 - [**Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps**](https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang) [[Code](https://github.com/RiS3-Lab/ModelXRay)]  
   <sub>USENIX Security Symposium (USENIX Security 2021)</sub>
 
-- [**Understanding Real-world Threats to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3548606.3559388)  
+- [**Understanding Real-world Threats to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3548606.3559388) [[Code](https://github.com/Advdroid/advdroid-pro)] 
   <sub>ACM SIGSAC Conference on Computer and Communications Security (CCS 2022)</sub>
 
-- [**DeMistify: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps**](https://dl.acm.org/doi/10.1145/3597503.3623325)  
+- [**DeMistify: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps**](https://dl.acm.org/doi/10.1145/3597503.3623325) [[Code](https://github.com/MGYN/DeMistify)] 
   <sub>IEEE/ACM International Conference on Software Engineering (ICSE 2024)</sub>
 
-- [**Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms**](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-pengli)  
+- [**Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms**](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-pengli) [[Code](https://github.com/qsxltss/Game-of-Arrows)]  
   <sub>USENIX Security Symposium (USENIX Security 2025)</sub>
 
 #### Side Channel
