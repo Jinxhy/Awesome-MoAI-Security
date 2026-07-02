@@ -299,24 +299,24 @@ The following open problems summarize the main research gaps identified in our S
 Adversarial attacks against on-device models remain hard to realize after deployment because they often require control over model inputs, insertion of adversarial perturbations, or app repackaging to modify preprocessing code. These steps can be impractical or detectable in real end-user deployments.
 
 2. **Stealthy Model Modification.**  
-Backdoor attacks must find post-deployment entry points beyond standard training-time poisoning because on-device models are typically read-only and inference-only. The key challenge is to introduce hidden malicious behavior without producing observable changes in model artifacts, app behavior, or benign inference.
+Backdoor attacks need to find post-deployment entry points beyond standard training-time poisoning because on-device models are typically read-only and inference-only. The key challenge is to introduce hidden malicious behavior without producing observable changes in model artifacts.
 
 3. **Precise Weight Localization.**  
-Adversarial weight attacks expose a parameter-level integrity risk, but practical deployment depends on locating behavior-critical weights in large and highly coupled on-device models. This is difficult because attackers often lack gradient guidance and must preserve benign utility while modifying only selected parameters.
+Adversarial weight attacks expose a parameter-level integrity risk, but practical deployment depends on locating behavior-critical weights in the large parameter search space. This is difficult because attackers often lack gradient guidance and need to preserve benign utility while modifying only selected parameters.
 
 4. **Reliable Model Extraction.**  
 Local model storage does not make model stealing straightforward. Practical extraction still depends on reliable model identification, decryption, and reconstruction in the presence of customized encryption algorithms, nonstandard AI frameworks, and runtime-specific loading behavior.
 
 5. **Hardware Heterogeneity.**  
-Energy-latency attacks depend on how poisoned activation patterns interact with device-specific execution behavior. They may amplify latency and energy consumption on sparsity-sensitive accelerators, but fail to transfer to hardware or runtimes without sparsity-dependent execution.
+Energy-latency attacks depend on how poisoned activation patterns interact with device-specific execution behavior. They may amplify latency and energy consumption on sparsity-sensitive accelerators, but fail to transfer to hardware without sparsity-dependent execution.
 
 <img src="https://img.shields.io/badge/DEFENSE%20OPS%20%E2%80%94%20FROM%20PROTECTION%20MECHANISMS%20TO%20POST--RELEASE%20GUARANTEES-166534?style=for-the-badge" height="28" align="absmiddle" />
 
 6. **Executable Equivalence.**  
-Model obfuscation must still preserve the original prediction function during authorized inference. This executable equivalence can expose recoverable runtime states, transformed weights, operator semantics, or structural traces that enable semantic, structural, or parameter recovery.
+Model obfuscation still needs to preserve the original prediction function during authorized inference. This executable equivalence can expose recoverable runtime states, transformed weights, operator semantics, or structural traces that enable semantic, structural, or parameter recovery.
 
 7. **Client-side Enforcement.**  
-Model authorization binds correct inference to credentials, integrity checks, and packed-weight recovery. However, these checks must execute inside the mobile stack, making enforcement dependent on client-side code that can be reverse engineered, repackaged, hooked, or instrumented after deployment.
+Model authorization binds correct inference to credentials, integrity checks, and packed-weight recovery. However, these checks need to execute inside the mobile stack, making enforcement dependent on client-side code that can be reverse engineered, repackaged, hooked, or instrumented after deployment.
 
 8. **TEE Deployment Feasibility.**  
 TEE defenses require coordinated support across model formats, AI frameworks, operator libraries, delegates, accelerators, and CPU/GPU/NPU isolation interfaces. Current mobile ecosystems still lack widely adopted, developer-transparent TEE-backed inference stacks.
