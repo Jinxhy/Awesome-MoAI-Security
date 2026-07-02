@@ -350,7 +350,7 @@ Model watermarking enables post-deployment ownership verification, but stolen mo
 
 Beyond the nine open problems above, our SoK highlights three emerging directions where MOAI security is likely to expand next. These directions move beyond static, inference-only on-device models toward adaptive, generative, and action-oriented MoAI systems. We summarize them here at a high level. The companion paper provides more detailed motivation, threat surfaces, and research challenges.
 
- <img src="https://img.shields.io/badge/ON--DEVICE%20TRAINING-ADAPTIVE%20MOAI-2563EB?style=for-the-badge" height="24" align="absmiddle" />  
+<img src="https://img.shields.io/badge/On--device%20Training%20Security-4F46E5?style=for-the-badge" height="28" align="absmiddle" />
    Current MoAI security research mainly focuses on deployed models that are read-only and inference-only. On-device training changes this assumption by allowing models to be updated locally, which exposes gradients, parameter updates, and user data during the training process. This opens new questions around local fine-tuning, update integrity, training-data exposure, personalization poisoning, and defenses for training-time states on end-user devices.
 
 2. <img src="https://img.shields.io/badge/ON--DEVICE%20GENAI-GENERATIVE%20MOAI-4F46E5?style=for-the-badge" height="24" align="absmiddle" /> 
