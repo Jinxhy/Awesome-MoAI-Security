@@ -8,17 +8,15 @@
 
 This repository is maintained as the companion resource for:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Companion%20Resource%20for-SoK%20on%20MOAI%20Security-2563EB?style=for-the-badge" height="28" align="absmiddle" />
-</p>
 
-<p align="center">
-  <b>SoK: Attack and Defense Landscape of Mobile On-device AI Systems</b><br>
-  <sub>Yujin Huang, Xin Zheng, Xingliang Yuan, Kwok-Yan Lam</sub><br>
-  <a href="https://arxiv.org/pdf/2607.00362">
-    <img src="https://img.shields.io/badge/Paper-arXiv%3A2607.00362-B31B1B?style=flat" height="22" align="absmiddle" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/Companion%20Resource%20for-SoK%20on%20MOAI%20Security-2563EB?style=for-the-badge" height="26" align="absmiddle" />
+
+**SoK: Attack and Defense Landscape of Mobile On-device AI Systems**  
+<sub>Yujin Huang, Xin Zheng, Xingliang Yuan, Kwok-Yan Lam</sub>  
+<br>
+<a href="https://arxiv.org/pdf/2607.00362">
+  <img src="https://img.shields.io/badge/Paper-arXiv%3A2607.00362-B31B1B?style=flat" height="22" align="absmiddle" />
+</a>
 
 Mobile on-device AI systems execute AI models locally through ML frameworks such as **LiteRT/TFLite**, **Core ML**, **ExecuTorch**, **ONNX**, and hardware-backed accelerators. This repo tracks the security research needed to understand and protect such systems, as the local storage of on-device models introduces new security risks.
 
