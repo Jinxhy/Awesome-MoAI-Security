@@ -24,20 +24,34 @@ Mobile on-device AI systems execute AI models locally through ML frameworks such
 
 - [Reading roadmap](#reading-roadmap)
 - [Taxonomy at a glance](#taxonomy-at-a-glance)
-- [Attacks on MOAI systems](#attacks-on-moai-systems)
-  - [Adversarial attacks](#adversarial-attacks)
-  - [Backdoor attacks](#backdoor-attacks)
-  - [Adversarial weight and model-tampering attacks](#adversarial-weight-and-model-tampering-attacks)
-  - [Model stealing and extraction attacks](#model-stealing-and-extraction-attacks)
-  - [Side-channel and runtime attacks](#side-channel-and-runtime-attacks)
-  - [Energy-latency and availability attacks](#energy-latency-and-availability-attacks)
-- [Defenses for MOAI systems](#defenses-for-moai-systems)
-  - [Model obfuscation and concealment](#model-obfuscation-and-concealment)
-  - [Model authorization and app-model binding](#model-authorization-and-app-model-binding)
-  - [Trusted execution environments and secure inference](#trusted-execution-environments-and-secure-inference)
-  - [Model watermarking and post-deployment accountability](#model-watermarking-and-post-deployment-accountability)
+- [Cross-pillar Security Analysis](#cross-pillar-security-analysis)
+- [Attacks on MoAI systems](#attacks-on-moai-systems)
+  - [Adversarial Attacks](#adversarial-attacks)
+    - [Model Similarity Exploitation](#model-similarity-exploitation)
+    - [Gradient Reconstruction](#gradient-reconstruction)
+    - [Preprocessing Manipulation](#preprocessing-manipulation)
+  - [Backdoor Attacks](#backdoor-attacks)
+    - [Payload Injection](#payload-injection)
+    - [Model Quantization](#model-quantization)
+    - [Image Steganography](#image-steganography)
+  - [Adversarial Weight Attacks](#adversarial-weight-attacks)
+  - [Model Stealing Attacks](#model-stealing-attacks)
+    - [Static Analysis](#static-analysis)
+    - [Dynamic Analysis](#dynamic-analysis)
+    - [Side Channel](#side-channel)
+  - [Energy-latency Attacks](#energy-latency-attacks)
+- [Defenses for MoAI systems](#defenses-for-moai-systems)
+  - [Model Obfuscation](#model-obfuscation)
+    - [Software-level Concealment](#software-level-concealment)
+    - [Hardware-level Concealment](#hardware-level-concealment)
+  - [Model Authorization](#model-authorization)
+  - [Trusted Execution Environments](#trusted-execution-environments)
+    - [Monolithic Execution](#monolithic-execution)
+    - [Partitioned Execution](#partitioned-execution)
+    - [Obfuscated Offloading](#obfuscated-offloading)
+  - [Model Watermarking](#model-watermarking)
 - [Open problems](#open-problems)
-- [Citation](#citation)
+- [Emerging directions](#emerging-directions)
 
 ## Reading roadmap
 
@@ -88,6 +102,7 @@ New to MoAI security? Start here:
 
 ## Attacks on MoAI systems
 
+<a id="adversarial-attacks"></a>
 <img src="https://img.shields.io/badge/Adversarial%20Attacks-B91C1C?style=flat" height="24" align="absmiddle" />
 
 #### Model Similarity Exploitation
