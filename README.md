@@ -1,8 +1,6 @@
 # Awesome Mobile On-Device AI Security
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Jinxhy/Awesome-MoAI-Security?style=social)](https://github.com/Jinxhy/Awesome-MoAI-Security/stargazers)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Companion%20Resource%20for-SoK%20on%20MOAI%20Security-2563EB?style=for-the-badge" height="28" align="absmiddle" />
