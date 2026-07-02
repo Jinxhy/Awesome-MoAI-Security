@@ -87,7 +87,7 @@ New to MoAI security? Start here:
 
 ## Attacks on MoAI systems
 
-<img src="https://img.shields.io/badge/Adversarial%20Attack-B91C1C?style=flat" height="24" align="absmiddle" />
+<img src="https://img.shields.io/badge/Adversarial%20Attacks-B91C1C?style=flat" height="24" align="absmiddle" />
 
 #### Model Similarity Exploitation
 
@@ -119,7 +119,7 @@ New to MoAI security? Start here:
 - [**Beyond the Model: Data Pre-processing Attack to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3591197.3591308)  
   <sub>Secure and Trustworthy Deep Learning Systems Workshop (SecTL 2023)</sub>
 
-### Backdoor attacks
+<img src="https://img.shields.io/badge/Backdoor%20Attacks-BE123C?style=flat" height="24" align="absmiddle" />
 
 - [**DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection**](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00035) — Li et al., ICSE 2021. `[backdoor]` `[payload injection]` `[model graph manipulation]`
 
