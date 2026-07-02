@@ -121,13 +121,23 @@ New to MoAI security? Start here:
 
 <img src="https://img.shields.io/badge/Backdoor%20Attacks-BE123C?style=flat" height="24" align="absmiddle" />
 
-- [**DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection**](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00035) — Li et al., ICSE 2021. `[backdoor]` `[payload injection]` `[model graph manipulation]`
+#### Payload Injection
 
-- [**MalModel: Hiding Malicious Payload in Mobile Deep Learning Models with Black-box Backdoor Attack**](https://doi.org/10.1007/s10515-025-00569-7) — Hua et al., Automated Software Engineering 2026. `[backdoor]` `[mobile DL]`
+- [**DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection**](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00035) [[Code](https://github.com/yuanchun-li/DeepPayload)]  
+  <sub>IEEE/ACM International Conference on Software Engineering (ICSE 2021)</sub>
 
-- [**Quantization Backdoors to Deep Learning Commercial Frameworks**](https://arxiv.org/abs/2108.09187) — Ma et al., IEEE TDSC 2024. `[quantization]` `[backdoor]` `[TFLite]`
+- [**MalModel: Hiding Malicious Payload in Mobile Deep Learning Models with Black-box Backdoor Attack**](https://link.springer.com/article/10.1007/s10515-025-00569-7) [[Code](https://github.com/hjygh/MalModel)]  
+  <sub>Automated Software Engineering (ASEJ 2026)</sub>
 
-- [**Stealthy Backdoor Attack to Real-world Models in Android Apps**](https://arxiv.org/abs/2501.01263) — Wei et al., arXiv 2025. `[BARWM]` `[steganography]` `[Android]`
+#### Model Quantization
+
+- [**Quantization Backdoors to Deep Learning Commercial Frameworks**](https://arxiv.org/abs/2108.09187) [[Code](https://github.com/quantization-backdoor/quantization-backdoor)]  
+  <sub>IEEE Transactions on Dependable and Secure Computing (TDSC 2024)</sub>
+
+#### Image Steganography
+
+- [**Stealthy Backdoor Attack to Real-world Models in Android Apps**](https://arxiv.org/abs/2501.01263)  
+  <sub>arXiv preprint (arXiv 2025)</sub>
 
 ### Adversarial weight and model-tampering attacks
 
