@@ -1,7 +1,7 @@
 # Awesome Mobile On-Device AI Security
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Companion%20Resource%20for-SoK%20on%20MoAI%20Security-2563EB?style=for-the-badge" height="30" align="absmiddle" />
+  <img src="https://img.shields.io/badge/Companion%20Resource%20for-SoK%20on%20MoAI%20Security-2563EB?style=for-the-badge" height="28" align="absmiddle" />
 </p>
 
 <h2 align="center">SoK: Attack and Defense Landscape of Mobile On-device AI Systems</h3>
@@ -9,7 +9,7 @@
 <p align="center">
   <b>Yujin Huang, Xin Zheng, Xingliang Yuan, Kwok-Yan Lam</b><br><br>
   <a href="https://arxiv.org/pdf/2607.00362">
-    <img src="https://img.shields.io/badge/Paper-arXiv%3A2607.00362-B31B1B?style=flat" height="24" align="absmiddle" />
+    <img src="https://img.shields.io/badge/Paper-arXiv%3A2607.00362-B31B1B?style=flat" height="22" align="absmiddle" />
   </a>
 </p>
 
