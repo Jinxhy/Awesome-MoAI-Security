@@ -149,11 +149,8 @@ New to MoAI security? Start here:
 
 <img src="https://img.shields.io/badge/Energy--latency%20Attacks-92400E?style=flat" height="24" align="absmiddle" />
 
-### Energy-latency and availability attacks
-
-- [**Energy-Latency Attacks to On-Device Neural Networks via Sponge Poisoning**](https://dl.acm.org/doi/10.1145/3591197.3591307) — Wang et al., SecTL 2023. `[availability]` `[energy-latency attack]` `[sponge poisoning]`
-
-- [**Energy-Latency Attacks: A New Adversarial Threat to Deep Learning**](https://dl.acm.org/doi/10.1145/3716425) — Brachemi et al., ACM Computing Surveys 2025. `[survey]` `[availability]` `[energy-latency]`
+- [**Energy-Latency Attacks to On-Device Neural Networks via Sponge Poisoning**](https://dl.acm.org/doi/10.1145/3591197.3591307)  
+  <sub>Secure and Trustworthy Deep Learning Systems Workshop (SecTL 2023)</sub>
 
 ## Defenses for MoAI systems
 
