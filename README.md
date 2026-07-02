@@ -189,18 +189,27 @@ New to MoAI security? Start here:
 
 ## Defenses for MoAI systems
 
-### Model obfuscation and concealment
+<img src="https://img.shields.io/badge/Model%20Obfuscation-047857?style=flat" height="24" align="absmiddle" />
 
-- [**ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-Based Systems**](https://dl.acm.org/doi/10.1145/3597926.3598113) — Zhou et al., ISSTA 2023. `[model obfuscation]` `[TFLite]`  
-  Code: [ModelObfuscator](https://github.com/zhoumingyi/ModelObfuscator)
+#### Software-level Concealment
 
-- [**DynaMO: Protecting Mobile DL Models through Coupling Obfuscated DL Operators**](https://dl.acm.org/doi/10.1145/3691620.3694998) — Zhou et al., ASE 2024. `[dynamic obfuscation]` `[model protection]`  
-  Code: [DynaMO](https://github.com/zhoumingyi/DynaMO)
+- [**ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-Based Systems**](https://dl.acm.org/doi/10.1145/3597926.3598113) [[Code](https://github.com/zhoumingyi/ModelObfuscator)]<br>
+  <sub>ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023)</sub>
 
-- [**Model-less Is the Best Model: Generating Pure Code Implementations to Replace On-Device DL Models**](https://dl.acm.org/doi/10.1145/3650212.3652119) — Zhou et al., ISSTA 2024. `[model-less deployment]` `[code generation]`  
-  Code: [CustomDLCoder](https://github.com/zhoumingyi/CustomDLCoder)
+- [**DynaMO: Protecting Mobile DL Models through Coupling Obfuscated DL Operators**](https://dl.acm.org/doi/10.1145/3691620.3694998) [[Code](https://github.com/zhoumingyi/DynaMO)]<br>
+  <sub>IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)</sub>
 
-- [**NNSplitter: An Active Defense Solution for DNN Model via Automated Weight Obfuscation**](https://proceedings.mlr.press/v202/zhou23z.html) — Zhou et al., ICML 2023. `[weight obfuscation]` `[trusted hardware]`
+- [**Model-less Is the Best Model: Generating Pure Code Implementations to Replace On-Device DL Models**](https://dl.acm.org/doi/10.1145/3650212.3652119) [[Code](https://github.com/zhoumingyi/CustomDLCoder)]<br>
+  <sub>ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024)</sub>
+
+#### Hardware-level Concealment
+
+- [**NNSplitter: An Active Defense Solution for DNN Model via Automated Weight Obfuscation**](https://proceedings.mlr.press/v202/zhou23h.html) [[Code](https://github.com/Tongzhou0101/NNSplitter)]<br>
+  <sub>International Conference on Machine Learning (ICML 2023)</sub>
+
+- [**A Novel Obfuscation Method Based on Majority Logic for Preventing Unauthorized Access to Binary Deep Neural Networks**](https://www.nature.com/articles/s41598-025-09722-4)<br>
+  <sub>Scientific Reports (Sci. Rep. 2025)</sub>
+
 
 ### Model authorization and app-model binding
 
