@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Companion%20Resource%20for-SoK%20on%20MoAI%20Security-2563EB?style=for-the-badge" height="32" align="absmiddle" />
 </p>
 
-<h3 align="center">SoK: Attack and Defense Landscape of Mobile On-device AI Systems</h3>
+<h2 align="center">SoK: Attack and Defense Landscape of Mobile On-device AI Systems</h3>
 
 <p align="center">
   <b>Yujin Huang, Xin Zheng, Xingliang Yuan, Kwok-Yan Lam</b><br><br>
