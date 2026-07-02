@@ -211,12 +211,12 @@ New to MoAI security? Start here:
   <sub>Scientific Reports (Sci. Rep. 2025)</sub>
 
 
-### Model authorization and app-model binding
+<img src="https://img.shields.io/badge/Model%20Authorization-059669?style=flat" height="24" align="absmiddle" />
 
-- [**MMGuard: Automatically Protecting On-Device Deep Learning Models in Android Apps**](https://ieeexplore.ieee.org/document/9474328/) — Hua et al., IEEE SPW 2021. `[model authorization]` `[app-model binding]`  
-  Code: [MMGuard](https://github.com/MMGuard123/MMGuard)
+- [**MMGuard: Automatically Protecting On-Device Deep Learning Models in Android Apps**](https://ieeexplore.ieee.org/document/9474328) [[Code](https://github.com/MMGuard123/MMGuard)]<br>
+  <sub>IEEE Security and Privacy Workshops (SPW 2021)</sub>
 
-### Trusted execution environments and secure inference
+<img src="https://img.shields.io/badge/Trusted%20Execution%20Environments-0F766E?style=flat" height="18" align="absmiddle" />
 
 - [**Offline Model Guard: Secure and Private ML on Mobile Devices**](https://doi.org/10.23919/DATE48585.2020.9116560) — Bayerl et al., DATE 2020. `[TEE]` `[mobile ML]`
 
