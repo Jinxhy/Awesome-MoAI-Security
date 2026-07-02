@@ -17,7 +17,7 @@
   </a>
 </p>
 
-> A curated, taxonomy-driven reading list for **Mobile On-Device AI (MoAI) Security**: attacks, defenses, and open problems for AI models deployed directly inside mobile apps on end-user devices.
+
 
 Mobile on-device AI systems execute AI models locally through ML frameworks such as **LiteRT/TFLite**, **Core ML**, **ExecuTorch**, **ONNX**, and hardware-backed accelerators. This repo tracks the security research needed to understand and protect such systems, as the local storage of on-device models introduces new security risks.
 
