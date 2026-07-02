@@ -4,19 +4,20 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Jinxhy/Awesome-MoAI-Security?style=social)](https://github.com/Jinxhy/Awesome-MoAI-Security/stargazers)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Companion%20Resource%20for-SoK%20on%20MOAI%20Security-2563EB?style=for-the-badge" height="28" align="absmiddle" />
+</p>
+
+<h3 align="center">SoK: Attack and Defense Landscape of Mobile On-device AI Systems</h3>
+
+<p align="center">
+  <b>Yujin Huang, Xin Zheng, Xingliang Yuan, Kwok-Yan Lam</b><br><br>
+  <a href="https://arxiv.org/pdf/2607.00362">
+    <img src="https://img.shields.io/badge/Paper-arXiv%3A2607.00362-B31B1B?style=flat" height="22" align="absmiddle" />
+  </a>
+</p>
+
 > A curated, taxonomy-driven reading list for **Mobile On-Device AI (MoAI) Security**: attacks, defenses, and open problems for AI models deployed directly inside mobile apps on end-user devices.
-
-This repository is maintained as the companion resource for:
-
-
-<img src="https://img.shields.io/badge/Companion%20Resource%20for-SoK%20on%20MOAI%20Security-2563EB?style=for-the-badge" height="26" align="absmiddle" />
-
-**SoK: Attack and Defense Landscape of Mobile On-device AI Systems**  
-<sub>Yujin Huang, Xin Zheng, Xingliang Yuan, Kwok-Yan Lam</sub>  
-<br>
-<a href="https://arxiv.org/pdf/2607.00362">
-  <img src="https://img.shields.io/badge/Paper-arXiv%3A2607.00362-B31B1B?style=flat" height="22" align="absmiddle" />
-</a>
 
 Mobile on-device AI systems execute AI models locally through ML frameworks such as **LiteRT/TFLite**, **Core ML**, **ExecuTorch**, **ONNX**, and hardware-backed accelerators. This repo tracks the security research needed to understand and protect such systems, as the local storage of on-device models introduces new security risks.
 
