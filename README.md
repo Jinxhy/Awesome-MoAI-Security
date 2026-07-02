@@ -353,7 +353,7 @@ Beyond the nine open problems above, our SoK highlights three emerging direction
  <img src="https://img.shields.io/badge/ON--DEVICE%20TRAINING-ADAPTIVE%20MOAI-2563EB?style=for-the-badge" height="24" align="absmiddle" />  
    Current MoAI security research mainly focuses on deployed models that are read-only and inference-only. On-device training changes this assumption by allowing models to be updated locally, which exposes gradients, parameter updates, and user data during the training process. This opens new questions around local fine-tuning, update integrity, training-data exposure, personalization poisoning, and defenses for training-time states on end-user devices.
 
-2. **On-device GenAI Security.**  
+2. <img src="https://img.shields.io/badge/ON--DEVICE%20GENAI-GENERATIVE%20MOAI-4F46E5?style=for-the-badge" height="24" align="absmiddle" /> 
    Existing MoAI security studies are still largely centered on vision-based tasks such as image classification. As LLMs and generative models move onto smartphones, MoAI security must expand to prompt-driven and content-generating systems. Important challenges include prompt injection, jailbreaks, unintended information disclosure, and local context leakage for on-device LLM.
 
 3. **Agentic MoAI Governance.**  
