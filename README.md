@@ -216,7 +216,7 @@ New to MoAI security? Start here:
 - [**MMGuard: Automatically Protecting On-Device Deep Learning Models in Android Apps**](https://ieeexplore.ieee.org/document/9474328) [[Code](https://github.com/MMGuard123/MMGuard)]<br>
   <sub>IEEE Security and Privacy Workshops (SPW 2021)</sub>
 
-<img src="https://img.shields.io/badge/Trusted%20Execution%20Environments-0F766E?style=flat" height="18" align="absmiddle" />
+<img src="https://img.shields.io/badge/Trusted%20Execution%20Environments-0F766E?style=flat" height="24" align="absmiddle" />
 
 - [**Offline Model Guard: Secure and Private ML on Mobile Devices**](https://doi.org/10.23919/DATE48585.2020.9116560) — Bayerl et al., DATE 2020. `[TEE]` `[mobile ML]`
 
