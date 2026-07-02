@@ -148,7 +148,7 @@ New to MoAI security? Start here:
 
 #### Static Analysis
 
-- [**A First Look at Deep Learning Apps on Smartphones**](https://arxiv.org/pdf/1812.05448) [[Code](https://github.com/xumengwei/MobileDL)] 
+- [**A First Look at Deep Learning Apps on Smartphones**](https://arxiv.org/pdf/1812.05448) [[Code](https://github.com/xumengwei/MobileDL)]
   <sub>The World Wide Web Conference (WWW 2019)</sub>
 
 - [**A First Look at On-device Models in iOS Apps**](https://arxiv.org/pdf/2307.12328) [[Code](https://github.com/huhanGitHub/iOS-App-database)] 
