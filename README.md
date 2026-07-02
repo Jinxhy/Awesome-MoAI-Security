@@ -80,6 +80,11 @@ New to MoAI security? Start here:
 | **Device-resident model security** | Deployed model artifacts and all post-deployment forms in which models are stored, loaded, transformed, or materialized on devices | Adversarial Attacks, Backdoor Attacks, Adversarial Weight Attacks, Model Stealing Attacks,  Energy-latency Attacks | Model Obfuscation, Model Authorization, TEE, Model Watermarking |
 | **Device-native environment confinement** | Sensitive inference computation and runtime states across the mobile OS, AI runtime, memory subsystem, and hardware-backed execution environments | Model Stealing Attacks, Energy-latency Attacks | Model Obfuscation, TEE |
 
+## Cross-pillar Security Analysis
+<p align="center">
+  <img src="figures/pillar-attack-defense.jpg" alt="Cross-pillar security analysis of attacks, defenses, and open problems in MoAI systems.">
+</p>
+
 ## Attacks on MoAI systems
 
 ### Adversarial attacks
