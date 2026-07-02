@@ -211,7 +211,7 @@ New to MoAI security? Start here:
   <sub>Scientific Reports (Sci. Rep. 2025)</sub>
 
 
-<img src="https://img.shields.io/badge/Model%20Authorization-059669?style=flat" height="24" align="absmiddle" />
+<img src="https://img.shields.io/badge/Model%20Authorization-0A7763?style=flat" height="24" align="absmiddle" />
 
 - [**MMGuard: Automatically Protecting On-Device Deep Learning Models in Android Apps**](https://ieeexplore.ieee.org/document/9474328) [[Code](https://github.com/MMGuard123/MMGuard)]<br>
   <sub>IEEE Security and Privacy Workshops (SPW 2021)</sub>
