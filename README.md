@@ -89,20 +89,35 @@ New to MoAI security? Start here:
 
 <img src="https://img.shields.io/badge/Adversarial%20Attack-B91C1C?style=flat" height="24" align="absmiddle" />
 
+#### Model Similarity Exploitation
+
 - [**Robustness of On-device Models: Adversarial Attack to Deep Learning Models on Android Apps**](https://dl.acm.org/doi/10.1109/ICSE-SEIP52600.2021.00019) [[Code](https://github.com/Jinxhy/AppAIsecurity)]  
-  <sub>Venue: IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP 2021)</sub>
+  <sub>IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP 2021)</sub>
 
 - [**Smart App Attack: Hacking Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1109/TIFS.2022.3172213) [[Code](https://github.com/Jinxhy/SmartAppAttack)]  
-  <sub>Venue: IEEE Transactions on Information Forensics and Security (TIFS 2022)</sub>
+  <sub>IEEE Transactions on Information Forensics and Security (TIFS 2022)</sub>
 
 - [**Understanding Real-world Threats to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3548606.3559388)  
-  <sub>Venue: ACM SIGSAC Conference on Computer and Communications Security (CCS 2022)</sub>
+  <sub>ACM SIGSAC Conference on Computer and Communications Security (CCS 2022)</sub>
 
 - [**Cheating Your Apps: Black-box Adversarial Attacks on Deep Learning Apps**](https://onlinelibrary.wiley.com/doi/10.1002/smr.2528)  
-  <sub>Venue: Journal of Software: Evolution and Process (JSEP 2024)</sub>
+  <sub>Journal of Software: Evolution and Process (JSEP 2024)</sub>
 
 - [**A First Look at On-device Models in iOS Apps**](https://dl.acm.org/doi/10.1145/3617177)  
-  <sub>Venue: ACM Transactions on Software Engineering and Methodology (TOSEM 2024)</sub>
+  <sub>ACM Transactions on Software Engineering and Methodology (TOSEM 2024)</sub>
+
+#### Gradient Reconstruction
+
+- [**Investigating White-Box Attacks for On-Device Models**](https://arxiv.org/abs/2402.05493)  
+  <sub>IEEE/ACM International Conference on Software Engineering (ICSE 2024)</sub>
+
+- [**TIM: Enabling Large-Scale White-Box Testing on In-App Deep Learning Models**](https://doi.org/10.1109/TIFS.2024.3455761)  
+  <sub>IEEE Transactions on Information Forensics and Security (TIFS 2024)</sub>
+
+#### Preprocessing Manipulation
+
+- [**Beyond the Model: Data Pre-processing Attack to Deep Learning Models in Android Apps**](https://dl.acm.org/doi/10.1145/3591197.3591308)  
+  <sub>Secure and Trustworthy Deep Learning Systems Workshop (SecTL 2023)</sub>
 
 ### Backdoor attacks
 
