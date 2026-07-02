@@ -353,10 +353,10 @@ Beyond the nine open problems above, our SoK highlights three emerging direction
 <img src="https://img.shields.io/badge/On--device%20Training%20Security-4F46E5?style=for-the-badge" height="28" align="absmiddle" />
    Current MoAI security research mainly focuses on deployed models that are read-only and inference-only. On-device training changes this assumption by allowing models to be updated locally, which exposes gradients, parameter updates, and user data during the training process. This opens new questions around local fine-tuning, update integrity, training-data exposure, personalization poisoning, and defenses for training-time states on end-user devices.
 
-2. <img src="https://img.shields.io/badge/ON--DEVICE%20GENAI-GENERATIVE%20MOAI-4F46E5?style=for-the-badge" height="24" align="absmiddle" /> 
+<img src="https://img.shields.io/badge/On--device%20GenAI%20Security-4F46E5?style=for-the-badge" height="28" align="absmiddle" />
    Existing MoAI security studies are still largely centered on vision-based tasks such as image classification. As LLMs and generative models move onto smartphones, MoAI security must expand to prompt-driven and content-generating systems. Important challenges include prompt injection, jailbreaks, unintended information disclosure, and local context leakage for on-device LLM.
 
-3. **Agentic MoAI Governance.**  
+<img src="https://img.shields.io/badge/Agentic%20MoAI%20Governance-4F46E5?style=for-the-badge" height="28" align="absmiddle" />
    MoAI systems are evolving from passive local inference toward agentic workflows that connect models with sensors, private user data, app contexts, OS services, and cross-app interfaces. This shifts the security focus from protecting model artifacts alone to governing context-to-action chains. Future work should study provenance for mobile context, separation of trusted user intent from untrusted environmental content, task-scoped permissions for tool and API use, confirmation and rollback for sensitive actions, and auditing of agent plans, memory, and actions.
 
 <!--## Citation
