@@ -231,6 +231,10 @@ New to MoAI security? Start here:
 - [**A Novel Obfuscation Method Based on Majority Logic for Preventing Unauthorized Access to Binary Deep Neural Networks**](https://www.nature.com/articles/s41598-025-09722-4)<br>
   <sub>Scientific Reports (Sci. Rep. 2025)</sub>
 
+  - [**Securing On-device Transformer with Hardware Binding and Reversible Obfuscation**](https://ieeexplore.ieee.org/document/11391918) [[Code](https://github.com/sarendis56/PUF-Transformer-IP-Protection)]<br>
+    <sub>Annual Computer Security Applications Conference (ACSAC 2025)</sub>
+
+
 <a id="model-authorization"></a>
 <img src="https://img.shields.io/badge/Model%20Authorization-0A7763?style=flat" height="24" align="absmiddle" />
 
