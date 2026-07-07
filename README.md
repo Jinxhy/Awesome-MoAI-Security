@@ -231,8 +231,8 @@ New to MoAI security? Start here:
 - [**A Novel Obfuscation Method Based on Majority Logic for Preventing Unauthorized Access to Binary Deep Neural Networks**](https://www.nature.com/articles/s41598-025-09722-4)<br>
   <sub>Scientific Reports (Sci. Rep. 2025)</sub>
 
-  - [**Securing On-device Transformer with Hardware Binding and Reversible Obfuscation**](https://ieeexplore.ieee.org/document/11391918) [[Code](https://github.com/sarendis56/PUF-Transformer-IP-Protection)]<br>
-    <sub>Annual Computer Security Applications Conference (ACSAC 2025)</sub>
+- [**Securing On-device Transformer with Hardware Binding and Reversible Obfuscation**](https://ieeexplore.ieee.org/document/11391918) [[Code](https://github.com/sarendis56/PUF-Transformer-IP-Protection)]<br>
+  <sub>Annual Computer Security Applications Conference (ACSAC 2025)</sub>
 
 
 <a id="model-authorization"></a>
@@ -240,6 +240,9 @@ New to MoAI security? Start here:
 
 - [**MMGuard: Automatically Protecting On-Device Deep Learning Models in Android Apps**](https://ieeexplore.ieee.org/document/9474328) [[Code](https://github.com/MMGuard123/MMGuard)]<br>
   <sub>IEEE Security and Privacy Workshops (SPW 2021)</sub>
+  
+- [**Securing On-device Transformer with Hardware Binding and Reversible Obfuscation**](https://ieeexplore.ieee.org/document/11391918) [[Code](https://github.com/sarendis56/PUF-Transformer-IP-Protection)]<br>
+  <sub>Annual Computer Security Applications Conference (ACSAC 2025)</sub>
 
 <a id="trusted-execution-environments"></a>
 <img src="https://img.shields.io/badge/Trusted%20Execution%20Environments-0F766E?style=flat" height="24" align="absmiddle" />
